@@ -1,0 +1,178 @@
+= Diversity: why do you care ?
+==============================
+:author:    Cécilia Bossard <@ceciliaBossard>
+:backend:   revealjs
+:max-width: 45em
+:data-uri:
+:icons:
+:customcss:
+
+[NOTE.speaker]
+--
+Let's do some exercise :-)
+Everyone, stand up !
+Now, every man can sit down.
+Every white person ?
+...
+OK, that was easy. Now, let's start again. Every white man between 25 and 35 years old... 
+
+That's not really what we can call diversity...
+--
+
+== What is diversity anyway ? 
+
+It's not just about gender or ethnical origins
+ 
+But also ages, backgrounds, disabilities, languages, ... 
+
+== What is diversity anyway ? 
+image:little_poney.jpg[]    
+
+== Definition
+image:definition.png[]
+
+== Who am I ?
+Cécilia Bossard, developer
+
+image:codelutin.png[CodeLutin,200]    
+
+[NOTE.speaker]
+--
+I will tell you more about me, why I am talking to you today about this subject
+
+I'm Cécilia Bossard. I am a developer for more than 10 years now.
+--
+
+== "You do not belong here ..." 
+(aka "Hello, Impostor Syndrom!")
+[NOTE.speaker]
+--
+I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to make web pages).
+I liked the way we could cretae new things and decided to pursued my studies in computer science.
+When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10% of girls (and it was a really good year !). 
+I don't remember my classmates beeing sexists or so, but I clearly remember my teachers not talking to girls or make it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
+In 2nd year, their were lesser girls... 
+After these 2 years, I had understood that programming was not a girls' thing. So I decided to pursue my studies to become a project manager ! 
+I arrived at my engineering school, where once again, there were only 10% of women... This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.
+But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if the chose this job to find a wife ?)
+And there were always a little voice in me saying "You are here just because the direction want to have more women, not because you earned it". Hello impostor syndrom !
+--
+
+== Bad luck ? 
+Loss of meaning
+[NOTE.speaker]
+--
+After graduating, I started to work in a big computer science company. I was told that because I was a junior, I had to start as a developer, and could become project manager after a few years. Great ! Let's do this !
+So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only took me to see my legs or was it because I had the required technical competences ? Was it only to "feminized" the work place ? People told me it was an asset to be a women, but I saw thi as a burden. I was only THE women of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
+After few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ?
+-- 
+
+== "It was just a joke ;-)"
+[NOTE.speaker]
+--
+In every team I worked in, there were always sexists jokes. Once or twice can be OK (sometimes even fun), but not all day long... Imagine if people made fun of your hair color all the time ? How would you react ? 
+--
+
+== Investment into communities ?
+Sponsorship 
+
+image:duchessfr.png[Duchess,200]    
+[NOTE.speaker]
+--
+Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything will be different, now that I was a mom. I could manage people and projects. What ?!?! Just because I could barrely manage my 3 months old daughter, I could manage a bunch of developers and clients ? 
+I pursued my personnal investment into agile methods hoping to find a company where I coud really help people and be hired because of my technical skills.
+After the birth of my second daughter, my husband and I decided to give my carrer a boost, while he put his aside. So I became more active into communities and started to really see what happend. Every time I was at a meetup or a conference, people started to ask me if I understood what was said, if I was here to recruit people or to make business. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" ?
+
+At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active...
+--
+
+== Break the stereotypes ! 
+
+image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
+   
+[NOTE.speaker]
+--
+After a few year, our two daughter asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions and devoxx4kids in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it since 2014 and we are still enjoying it. We have seen little girls becoming teenagers and still enjoying programming and that's really great ! We have also seen girl coming because her little brother were interessted, finally stay and coming back month after month, while her little brother never showed again.
+-- 
+== "Just stop complaining !"
+[NOTE.speaker]
+--
+I just wanted to show you that even though I had a quiet career, I have the impression that I had to fight more that white men to achieve the same goals. I am the only one ?
+--
+== Why is diversity even important ?
+[quote]
+___________________________________________
+A diverse group of problem-solvers usually has a better chance of outperforming a less diverse team, thanks to the broader range of experiences each member brings to the table.
+___________________________________________
+
+[NOTE.speaker]
+--
+And solving problem is exactly what we do every day !
+--
+
+== What can we change ?
+Let's do it with Baby steps :-)
+
+== During childhood
+
+Break the stereotypes !
+
+image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:girlswhocode.png[Girls who code, 200] image:blackgirlcode.jpeg[Black Girl Code,200]
+
+[NOTE.speaker]
+--
+As I showed you before, we can help breaking the stereotypes, show that IT can be fun and is for everyone !
+And please, please, do not tell children "Girls can't do these, boys can't to those" or "You need to be good at maths to study computer science"
+--
+
+== Training
+- Provide mentorship and role models
+- Give a meaning to the training
+- Connect STEM with other disciplines like humanities or art
+
+== Recruitment
+- Take care of your job description !
+* Free pizza / bier / table tennis, foosball table / ...
+* vs. Remote work, time to take care of your beloved ones, equity in treatment, respect, ...
+
+== Recruitment
+Change your process ?
+
+- "CV anonyme " ?
+- Technical recruitment tests for everyone ?
+
+== At work
+- Sponsorship
+- Work hours
+- Clothes
+- Tasks distribution 
+
+[NOTE.speaker]
+--
+- Provide sponsorship. Show that you care and accept everyone.
+- Take care of your meeting hours. Some people have to take care of beloved ones and can't stay late, some people can't work efficiently in the morning. You are working with human beeing, try to adapt !
+- Why can't we see men's legs at work while women can wear really short skirts ? I have never been given a real answer to this question...
+- not all women or gay people like to do CSS 
+--
+
+== Day to day live
+- Communication / "Violence symbolique"
+- Chores distribution (at home *_and_* at work)
+
+[NOTE.speaker]
+--
+- Be carefull about the way you speak. Not everyone have the same knowledge. When citing someone, just take time to make sure everyone has the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversation that people can feel that they do not belong here.
+- Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be home. Allowing remote work can be a great solution !
+--
+
+== And if everything goes wrong...
+- In France, we have a legislation called the "Defenseur des droits". 
+- We also have laws again discrimination (ex: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018877783[LOI n° 2008-496 du 27 mai 2008])
+
+== The goal is not to have a perfect diverse team but a team with enough diversity 
+
+== We work with others + we care about our job = we should care about others
+
+== Thanks !
+
+
