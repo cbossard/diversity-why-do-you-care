@@ -49,9 +49,9 @@ I'm Cécilia Bossard. I am a developer for more than 10 years now.
 --
 I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to make web pages).
 I liked the way we could cretae new things and decided to pursued my studies in computer science.
-When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10% of girls (and it was a really good year !). 
+When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10 girls for 90 boys (and it was a really good year !). 
 I don't remember my classmates beeing sexists or so, but I clearly remember my teachers not talking to girls or make it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
-In 2nd year, their were lesser girls... 
+In 2nd year, their were even lesser girls... 
 After these 2 years, I had understood that programming was not a girls' thing. So I decided to pursue my studies to become a project manager ! 
 I arrived at my engineering school, where once again, there were only 10% of women... This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.
 But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if the chose this job to find a wife ?)
@@ -63,14 +63,15 @@ Loss of meaning
 [NOTE.speaker]
 --
 After graduating, I started to work in a big computer science company. I was told that because I was a junior, I had to start as a developer, and could become project manager after a few years. Great ! Let's do this !
-So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only took me to see my legs or was it because I had the required technical competences ? Was it only to "feminized" the work place ? People told me it was an asset to be a women, but I saw thi as a burden. I was only THE women of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
-After few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ?
+So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only took me to see my legs or was it because I had the required technical competences ? Was it only to "feminized" the work place ? People told me it was an asset to be a women, but I saw this as a burden. I was just THE women of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
+After few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ? I wasn't even given a chance to try...
 -- 
 
 == "It was just a joke ;-)"
 [NOTE.speaker]
 --
-In every team I worked in, there were always sexists jokes. Once or twice can be OK (sometimes even fun), but not all day long... Imagine if people made fun of your hair color all the time ? How would you react ? 
+And in every team I worked in, there were always sexists jokes. Once or twice, it can be OK - sometimes even fun - , but not all day long... Imagine if people made fun of your hair color all the time ? How would you react ? 
+And when I got upset, people just tell me "It was just a joke", "you're really annoying with your feminism"
 --
 
 == Investment into communities ?
