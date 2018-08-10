@@ -16,10 +16,10 @@ Every white person ?
 ...
 OK, that was easy. Now, let's start again. Every white man between 25 and 35 years old... 
 
-That's not really what we can call diversity...
+That's not really what we can call diversity, is it ? ...
 --
 
-== What is diversity anyway ? 
+== What is diversity by the way ? 
 
 It's not just about gender or ethnical origins
  
@@ -41,7 +41,8 @@ image:codelutin.png[CodeLutin,200]
 I will tell you more about me, why I am talking to you today about this subject
 
 I'm Cécilia Bossard. I am a developer for more than 10 years now.
-I will tell you more about me, what I faced and am still facing today
+Well, I have a woman point of view about diversity, I'm not a african origin woman, nor a disabled person... I guess that these people have different experiences than mine. But, I think we have experienced the same kind of things.
+I propose you to share my own experiences, I mean what I have faced and still face today.   
 --
 
 == "Hello, Impostor Syndrom!" 
