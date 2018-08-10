@@ -31,7 +31,7 @@ image:little_poney.jpg[]
 == Definition
 image:definition.png[]
 
-== Who am I ?
+== Who am I and why am I talking to you today ?
 Cécilia Bossard, developer
 
 image:codelutin.png[CodeLutin,200]    
@@ -41,21 +41,22 @@ image:codelutin.png[CodeLutin,200]
 I will tell you more about me, why I am talking to you today about this subject
 
 I'm Cécilia Bossard. I am a developer for more than 10 years now.
+I will tell you more about me, what I faced and am still facing today
 --
 
-== "You do not belong here ..." 
-(aka "Hello, Impostor Syndrom!")
+== "Hello, Impostor Syndrom!" 
+(aka "You do not belong here ...")
 [NOTE.speaker]
 --
-I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to make web pages).
-I liked the way we could create new things and decided to pursued my studies in computer science.
+I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to create web pages).
+I liked the way we could build new things and decided to pursued my studies in computer science.
 When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10 girls for 90 boys (and it was a really good year !). 
 I don't remember my classmates beeing sexists or so, but I clearly remember my teachers not talking to girls or make it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
 In 2nd year, their were even lesser girls... 
 After these 2 years, I had understood that programming was not a girls' thing. So I decided to pursue my studies to become a project manager ! 
 I arrived at my engineering school, where once again, there were only 10% of women... This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.
 But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if the chose this job to find a wife ?)
-And there were always a little voice in me saying "You are here just because the direction want to have more women, not because you earned it". Hello impostor syndrom !
+And there were always a little voice in me saying "You are here just to enhance the statistics, not because you earned it". Hello impostor syndrom !
 --
 
 == Bad luck ? 
@@ -71,20 +72,20 @@ After few years, I started to see my classmates becomming project manager, archi
 [NOTE.speaker]
 --
 And in every team I worked in, there were always sexists jokes. Once or twice, it can be OK - sometimes even fun - , but not all day long... 
-And when I got upset, people just tell me "It was just a joke", "you're really annoying with your feminism". I suppose it's the same with all "different" people 
+And when I got upset, people just tell me "It was just a joke", "you're really annoying with your feminism". I suppose it's the same with all "different" people and not only women.
 --
 
-== Investment into communities ?
-Sponsorship 
+== I have to do something to change the situation !
+Investment into communities, sponsorship 
 
-image:duchessfr.png[Duchess,200]    
+image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]    
 [NOTE.speaker]
 --
-Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything will be different, now that I was a mom. I could manage people and projects. What ?!?! Just because I could barrely manage my 3 months old daughter, I could manage a bunch of developers and clients ? 
-I pursued my personnal investment into agile methods hoping to find a company where I coud really help people and be hired because of my technical skills.
-After the birth of my second daughter, my husband and I decided to give my carrer a boost, while he put his aside. So I became more active into communities and started to really see what happend. Every time I was at a meetup or a conference, people started to ask me if I understood what was said, if I was here to recruit people or to make business. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" ?
+Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything will be different, now that I was a mom. I could manage people and projects. What ?!?! Just because I could barrely manage my 3 months old daughter, it means I could manage a bunch of developers and clients ? 
+I pursued my personnal investment into agile methods hoping to find a company where I coud really help people and be hired thanks of my technical skills and not because I wan a women.
+After the birth of my second daughter, my husband and I decided to give my carrer a boost, while he put his aside (and I thank him hugelly for it !). So I became more active into communities and started to really see what happend. Every time I was at a meetup or a conference, people started to ask me if I understood what was said, if I was here to recruit people or to make business. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" ?
 
-At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes...
+At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speaking at conferences !
 --
 
 == Break the stereotypes ! 
@@ -93,8 +94,9 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
    
 [NOTE.speaker]
 --
-After a few year, our two daughter asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions and devoxx4kids in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it since 2014 and we are still enjoying it. We have seen little girls becoming teenagers and still enjoying programming and that's really great ! We have also seen a girl coming because her little brother were interessted, finally staying and coming back month after month, while her little brother never showed up again.
+After a few year, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls becoming teenagers and still enjoying programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
 -- 
+
 == "Just stop complaining !"
 [NOTE.speaker]
 --
@@ -119,23 +121,39 @@ Let's do it with Baby steps :-)
 
 Break the stereotypes !
 
-image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:girlswhocode.png[Girls who code, 200] image:blackgirlcode.jpeg[Black Girl Code,200]
+image:maths.jpeg[Girls suck at maths]
 
 [NOTE.speaker]
 --
 As I showed you before, we can help breaking the stereotypes, show that IT can be fun and is for everyone !
-And please, please, do not tell children "Girls can't do these, boys can't to those" or "You need to be good at maths to study computer science", "You are too old for this"
+And please, please, do not tell children "Girls can't do these, boys can't to those" or "You need to be good at maths to study computer science", "You are too old for this"...
+--
+
+== During childhood
+image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:girlswhocode.png[Girls who code, 200] image:blackgirlcode.jpeg[Black Girl Code,200] image:railsgirls.jpeg[Rails Girls,200]
+[NOTE.speaker]
+--
+Initiatives like devoxx4kids, girls who code, rails girls, can help breaking the stereotypes
 --
 
 == Training
 - Provide mentorship and role models
 - Give a meaning to the training
 - Connect STEM with other disciplines like humanities or art
+[NOTE.speaker]
+--
+
+--
 
 == Recruitment
 - Take care of your job description !
-* Free pizza / bier / table tennis, foosball table / ...
+* Free pizza / bier / table tennis, ...
 * vs. Remote work, time to take care of your beloved ones, equity in treatment, respect, ...
+
+[NOTE.speaker]
+--
+
+--
 
 == Recruitment
 Change your process ?
@@ -152,29 +170,50 @@ Change your process ?
 [NOTE.speaker]
 --
 - Provide sponsorship. Show that you care and accept everyone.
-- Take care of your meeting hours. Some people have to take care of beloved ones and can't stay late, some people can't work efficiently in the morning. You are working with human beeing, try to adapt !
-- Why can't we see men's legs at work while women can wear really short skirts ? I have never been given a real answer to this question...
+- Take care of your meeting times. Some people have to take care of beloved ones and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human beeing, try to adapt !
+- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is on both directions.
 - Front end for girls / Back end for boys ?
 --
 
 == Day to day live
-- Communication / "Violence symbolique"
+- Communication 
 - Chores distribution (at home *_and_* at work)
 
 [NOTE.speaker]
 --
+"Violence symbolique"
 - Be carefull about the way you speak. Not everyone have the same knowledge. When citing someone, just take time to make sure everyone has the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversation that people can feel that they are set aside and do not belong here.
+It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
+Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !)
 - Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be home. Allowing remote work can also be a great solution !
 --
 
 == And if everything goes wrong...
 - In France, we have a legislation called the "Defenseur des droits". 
-- We also have laws again discrimination (ex: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018877783[LOI n° 2008-496 du 27 mai 2008])
+- We also have laws again discrimination
+
+[NOTE.speaker]
+--
+ (ex: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018877783[LOI n° 2008-496 du 27 mai 2008])
+--
+
+== Do not fear to talk about it
+[NOTE.speaker]
+--
+
+--
 
 == The goal is not to have a perfect diverse team but a team with enough diversity 
 
-== We work with others + we care about our job = we should care about others
+== We work with others + we care about our job = we should care about others 
+icon:heart[2x]
 
 == Thanks !
+And special thanks to all of those who helped me for this presentation !
+
+- Jean 
+- Duchess France
+- Femmes Ingénieures Pays de la Loire
+- Code Lutin
 
 
