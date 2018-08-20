@@ -114,8 +114,18 @@ ___________________________________________
 
 [NOTE.speaker]
 --
+Diversity among a group of problem solvers is more important than individual excellence.
 And solving problem is exactly what we do every day !
+People from different backgrounds do, on average, tend to approach work and problem solving differently. These differences can bring new perspectives needed to promote innovation.
 --
+
+== More slides about diversity
+with facts !
+
+== It is not always that great
+A meta-analysis conducted on 108 studies and more than 10,100 teams reports that the enhanced creativity produced by teams with higher diversity is interrupted by deep-rooted social conflict and decision-making dilemmas that are rarely found in homogenous groups.
+
+
 
 == What can we change ?
 Let's do it with Baby steps :-)
@@ -190,6 +200,8 @@ Change your process ?
 It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
 Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !)
 - I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be home. Allowing remote work can also be a great solution !
+
+It's the day to day concerns that will drive women and people of color away, no matter how much energy a company puts into big-picture efforts.
 --
 
 == And if everything goes wrong...
@@ -209,13 +221,16 @@ Also, mind your swear words. If you are like me when you are coding, swear words
 
 == The goal is not to have a perfect diverse team but a team with enough diversity 
 
+== Diversity attracts diversity
+The problem becomes exponentially easier to solve once you’ve begun to solve it ^^
+
 == We work with others + we care about our job = we should care about others 
 icon:heart[2x]
 
 == Thanks !
-And special thanks to all of those who helped me for this presentation !
+And special thanks to all of those who helped me with this presentation !
 
-- Jean 
+- Jean, Gervaise
 - Duchess France
 - Femmes Ingénieures Pays de la Loire
 - Code Lutin
