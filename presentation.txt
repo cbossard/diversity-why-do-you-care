@@ -4,8 +4,8 @@
 :backend:   revealjs
 :max-width: 45em
 :data-uri:
-:icons:
 :customcss:
+:icons: font
 
 [NOTE.speaker]
 --
@@ -38,11 +38,10 @@ image:codelutin.png[CodeLutin,200]
 
 [NOTE.speaker]
 --
-I will tell you more about me, why I am talking to you today about this subject
+I will tell you more about me, why I am talking to you today, about diversity
 
-I'm Cécilia Bossard. I am a developer for more than 10 years now.
-Well, I have a woman point of view about diversity, I'm not a african origin woman, nor a disabled person... I guess that these people have different experiences than mine. But, I think we have faced the same kind of things.
-I propose you to share my own experiences, I mean what I have faced and still face today.   
+I'm Cécilia Bossard. I have been a developer for more than 10 years.
+I am talking to you as a white woman. So my point of view will not cover everything there is to say about diversity. I will share with you my experience, and what I had to face, and still do face today.  
 --
 
 == "Hello, Impostor Syndrom!" 
@@ -50,15 +49,15 @@ I propose you to share my own experiences, I mean what I have faced and still fa
 [NOTE.speaker]
 --
 I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to create web pages).
-I liked the way we could build new things and decided to pursued my studies in computer science.
-When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10 girls for 90 boys (and it was a really good year !). 
-I don't remember my classmates beeing sexists or so, but I clearly remember some of my teachers not talking to girls or make it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
-In 2nd year, their were even lesser girls... 
+I liked the way we could build new things and decided to pursue my studies in computer science.
+When I arrived at the "IUT", I saw that computer science was maybe not really so attractive to young women. We were only 10 girls for 90 boys (and I was told it was a really good year !). 
+I don't remember my classmates beeing sexist or so, but I clearly remember some of my teachers not talking to girls or making it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
+In 2nd year, their were even fewer girls... 
 After these 2 years, I had understood that programming was not a girls' thing. So I decided to pursue my studies to become a project manager ! 
 I arrived at my engineering school, where once again, there were only 10% of women... This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.
-But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if the chose this job to find a wife ?)
-And there were always a little voice in me saying "You are here just to enhance the statistics, not because you earned it". Hello impostor syndrom !
-As an aside : It's exactly the same with video games. If you're a women playing video games online, you're always accused of flirting. You are playing just to find a boyfriend, not because maybe you can find it fun... And honnestly, it's not only my lack of time that has make me stop playing online video games... I'm just fed up with having to justify myself all the time for something I do (I did) because I enjoyed it.
+But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if they chose this job to find a wife ?)
+And there were always a little voice in my head saying "You are here just to enhance the statistics, not because you earned it". Hello impostor syndrom !
+As an aside : It's exactly the same with video games. If you are a women playing video games online, you're always accused of flirting. You are playing just to find a boyfriend, not because maybe you can find it fun... And honestly, it's not only my lack of time that has made me stop playing online video games... I'm just fed up with having to justify myself all the time for something I do (I did) because I enjoyed it.
 --
 
 == Bad luck ? 
@@ -66,14 +65,14 @@ Loss of meaning
 [NOTE.speaker]
 --
 After graduating, I started to work in a big computer science company. I was told that because I was junior, I had to start as a developer, and could become project manager after a few years. Great ! Let's do this !
-So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only took me to see my legs or was it because I had the required technical competences ? Was it only to "feminize" the work place ? People told me it was an asset to be a women, but I saw this as a burden. I was just THE women of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
-After few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ? I wasn't even given a chance to try...
+So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only choose me to see my legs or was it because I had the required technical competences ? Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden. I was just THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
+After a few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ? I wasn't even given a chance to try...
 -- 
 
 == "It was just a joke ;-)"
 [NOTE.speaker]
 --
-And in every team I worked in, there were always sexists jokes. Once or twice, it can be OK - sometimes even fun - , but not all day long... 
+And in every team I worked with, there were always sexist jokes. Once or twice, it can be OK - sometimes even fun - , but not all day long... 
 And when I got upset, people just told me "It was just a joke", "you're really annoying with your angry feminism". 
 --
 
@@ -83,11 +82,11 @@ Investment into communities, sponsorship
 image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]    
 [NOTE.speaker]
 --
-Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything will be different, now that I was a mom. I could manage people and projects. What ?!?! Just because I could barrely manage my 3 months old daughter, it means I could manage a bunch of developers and clients ? 
-I pursued my personnal investment into agile methods hoping to find a company where I could really help people and be hired thanks to my technical skills and not because I was a women.
-After the birth of my second daughter, my husband and I decided to give my carrer a boost, while he put his aside (and I thank him hugelly for it !). So I became more active into communities and started to really see what was going on. Every time I was at a meetup or at a conference, people started to ask me if I understood what was said, if I was here to recruit people or so meet some clients. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" !
+Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything would be different, now that I was a mom. I could manage people and projects. What ?!?! Just because I could barely manage my 3 months old daughter, it meant I could manage a bunch of developers and clients ? 
+I pursued my personnal investment into agile methods hoping to find a company where I could really help people and be hired thanks to my technical skills and not because I was a woman.
+After the birth of my second daughter, my husband and I decided to give my career a boost, while he put his aside (and I thank him hugely for it !). So I became more active into communities and started to really see what was going on. Every time I was at a meetup or at a conference, people started to ask me if I understood what was said, if I was here to recruit people or to meet some clients. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" !
 
-At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speaking at conferences ! But I still do not dare to speak about technical subjects, only about soft skills.
+At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speack at conferences ! But I still do not dare speak about technical subjects, only about soft skills.
 --
 
 == Break the stereotypes ! 
@@ -96,14 +95,14 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
    
 [NOTE.speaker]
 --
-After a few year, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls becoming teenagers and still enjoying programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
+After a few years, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls become teenagers and still enjoy programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
 -- 
 
 == "Just stop complaining !"
 [NOTE.speaker]
 --
-I just wanted to show you that even though I had a quiet career, I have the impression that I had to fight more that white men to achieve the same goals. I am the only one ?
-After speaking with other women, it occurs that I am not an exception.
+I just wanted to show you that even though I had a quiet career, I have the impression that I had to fight more than white men to achieve the same goals. Am I the only one ?
+After talking with other women, it occurs to me that I am no exception.
 I think we are facing the same issues as black persons, asians, big, tall, little, old, young, ... Everybody that is not "a 30 years old white man".
 --
 == Why is diversity even important ?
@@ -138,8 +137,8 @@ image:maths.jpeg[Girls suck at maths]
 
 [NOTE.speaker]
 --
-As I showed you before, we can help breaking the stereotypes, show that IT can be fun and is for everyone !
-And please, please, do not tell children "Girls can't do these, boys can't to those" or "You need to be good at maths to study computer science", "You are too old to learn programming"...
+As I showed you before, we can help break the stereotypes, show that IT can be fun and is for everyone !
+And please, please, do not tell children "Girls can't do these, boys can't do those" or "You need to be good at maths to study computer science", "You are too old to learn programming"...
 --
 
 == During childhood
@@ -147,7 +146,7 @@ image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:g
 [NOTE.speaker]
 --
 Initiatives like devoxx4kids, girls who code, rails girls, can help break the stereotypes. We can see that they attract a lot of people and it's a really good thing !
-But sadly, we have to force parity in order to have girls coming : for example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets. The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls. Otherwise, all the tickets would we taken by boys. Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives. 
+But sadly, we have to force parity  so that girls may have time to apply: for example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets. The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls. Otherwise, all the tickets would we taken by boys. Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives. 
 --
 
 == Training
@@ -184,8 +183,8 @@ Change your process ?
 [NOTE.speaker]
 --
 - Provide sponsorship. Show that you care and accept everyone.
-- Take care of your meeting times. Some people have to take care of beloved ones and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human beeing, try to adapt ! Maybe just ask what the best time would be and timebox the meetings
-- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is on both directions.
+- Take care of your meeting times. Some people have to take care of beloved ones / significant others and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human being, try to adapt ! Maybe just ask what the best time would be and timebox the meetings
+- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is in both directions.
 - Front end for girls / Back end for boys ?
 --
 
@@ -196,11 +195,12 @@ Change your process ?
 [NOTE.speaker]
 --
 "Violence symbolique"
-- Be carefull about the way you speak. Not everyone have the same knowledge. When citing someone, just take time to make sure everyone has the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversation that people can feel that they are set aside and do not belong here.
+- Be careful about the way you speak. Not everyone has the same knowledge. When citing someone, just take time to make sure everyone knows the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversations that people can feel that they are set aside and do not belong here.
 It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
 Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !)
-- I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be home. Allowing remote work can also be a great solution !
+- I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
 
+A REFORMULER
 It's the day to day concerns that will drive women and people of color away, no matter how much energy a company puts into big-picture efforts.
 --
 
@@ -228,7 +228,11 @@ The problem becomes exponentially easier to solve once you’ve begun to solve i
 icon:heart[2x]
 
 == Thanks !
-And special thanks to all of those who helped me with this presentation !
+
+
+
+
+NOTE: And special thanks to all of those who helped and supported me with this presentation !
 
 - Jean, Gervaise
 - Duchess France
