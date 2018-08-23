@@ -7,6 +7,8 @@
 :customcss:
 :icons: font
 
+image::blackboard.jpeg[background, size=cover]
+
 [NOTE.speaker]
 --
 Let's do some exercise :-)

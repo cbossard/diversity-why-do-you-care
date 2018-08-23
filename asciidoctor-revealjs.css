@@ -1,15 +1,24 @@
+.reveal {
+    background-image: url("blackboard.jpeg");
+    background-size: cover;
+}
 
 .reveal h1 {
     color: #0af;
     font-weight: 100;
-    text-shadow: 0 0 50px #0af, 0 0 3px #fff;
+   /* text-shadow: 0 0 50px #0af, 0 0 3px #fff;*/
+    font-family: comic zine ot;
+
 }
 
 .reveal h2 {
     color: #af0;
-    text-shadow: 0 0 15px #af0, 0 0 2px #fff;
+    /*text-shadow: 0 0 15px #af0, 0 0 2px #fff;*/
     font-weight: 100;
+    font-family: comic zine ot;
+
 }
+
 
 .reveal section img{
     background: none;
@@ -18,4 +27,8 @@
 
 .reveal blockquote{
     width: 100%;
+}
+
+.reveal p {
+    font-family: KG Empire of dirt;
 }
