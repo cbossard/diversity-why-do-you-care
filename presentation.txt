@@ -10,7 +10,7 @@
 [NOTE.speaker]
 --
 Let's do some exercise :-)
-Everyone, stand up !
+Everyone, stand up ! (If you can't, just raise your hand)
 Now, every man can sit down.
 Every white person ?
 ...
@@ -28,8 +28,18 @@ But also ages, backgrounds, disabilities, languages, ...
 == What is diversity anyway ? 
 image:little_poney.jpg[]    
 
+[NOTE.speaker]
+--
+I like this image because to my point of view, it really represents diversity. We have here different kind of animals, of all colors, size, age, social background, disabilities. Every one has something to special and unique to share.
+--
+
 == Definition
 image:definition.png[]
+
+[NOTE.speaker]
+--
+Let's take a look at the definition from the Cambridge dictionary. [READ THE DEFINITION]
+--
 
 == Who am I and why am I talking to you today ?
 Cécilia Bossard, developer
@@ -65,7 +75,7 @@ Loss of meaning
 [NOTE.speaker]
 --
 After graduating, I started to work in a big computer science company. I was told that because I was junior, I had to start as a developer, and could become project manager after a few years. Great ! Let's do this !
-So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only choose me to see my legs or was it because I had the required technical competences ? Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden. I was just THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
+So I programmed, learned new frameworks, new languages, ... And every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only choose me to see my legs or was it because I had the required technical competences ? Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden. I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
 After a few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just luck ? Or am I so bad at what I do ? I wasn't even given a chance to try...
 -- 
 
@@ -86,7 +96,7 @@ Because I was not "technical enough", I decided to change path and dig deeper in
 I pursued my personnal investment into agile methods hoping to find a company where I could really help people and be hired thanks to my technical skills and not because I was a woman.
 After the birth of my second daughter, my husband and I decided to give my career a boost, while he put his aside (and I thank him hugely for it !). So I became more active into communities and started to really see what was going on. Every time I was at a meetup or at a conference, people started to ask me if I understood what was said, if I was here to recruit people or to meet some clients. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" !
 
-At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speack at conferences ! But I still do not dare speak about technical subjects, only about soft skills.
+At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speak at conferences ! But I still do not dare speak about technical subjects, only about soft skills.
 --
 
 == Break the stereotypes ! 
@@ -95,7 +105,7 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
    
 [NOTE.speaker]
 --
-After a few years, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls become teenagers and still enjoy programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
+After a few years, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could by this way break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls become teenagers and still enjoy programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
 -- 
 
 == "Just stop complaining !"
@@ -103,7 +113,7 @@ After a few years, our daughters asked us what we were doing at work. We found i
 --
 I just wanted to show you that even though I had a quiet career, I have the impression that I had to fight more than white men to achieve the same goals. Am I the only one ?
 After talking with other women, it occurs to me that I am no exception.
-I think we are facing the same issues as black persons, asians, big, tall, little, old, young, ... Everybody that is not "a 30 years old white man".
+I think we are facing the same issues as black persons, asians, big, skinny, old, young, ... Everybody that is not "a 30 years old christian white straight man".
 --
 == Why is diversity even important ?
 [quote]
@@ -146,7 +156,7 @@ image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:g
 [NOTE.speaker]
 --
 Initiatives like devoxx4kids, girls who code, rails girls, can help break the stereotypes. We can see that they attract a lot of people and it's a really good thing !
-But sadly, we have to force parity  so that girls may have time to apply: for example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets. The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls. Otherwise, all the tickets would we taken by boys. Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives. 
+But sadly, we often have to force parity  so that girls may have time to apply: for example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets. The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls. Otherwise, all the tickets would we taken by boys. Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives. 
 --
 
 == Training
@@ -171,14 +181,16 @@ But sadly, we have to force parity  so that girls may have time to apply: for ex
 == Recruitment
 Change your process ?
 
-- "CV anonyme " ?
-- Technical recruitment tests for everyone ?
+- Anonymous resume 
+- Technical recruitment tests 
+- ...
 
 == At work
 - Sponsorship
 - Work hours
 - Clothes
 - Tasks distribution 
+- Religious holidays
 
 [NOTE.speaker]
 --
@@ -189,7 +201,8 @@ Change your process ?
 --
 
 == Day to day live
-- Communication 
+- Speaking 
+- Listening
 - Chores distribution (at home *_and_* at work)
 
 [NOTE.speaker]
@@ -197,26 +210,27 @@ Change your process ?
 "Violence symbolique"
 - Be careful about the way you speak. Not everyone has the same knowledge. When citing someone, just take time to make sure everyone knows the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversations that people can feel that they are set aside and do not belong here.
 It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
-Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !)
-- I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things, so just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
+Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !). Some expression can be offensive towards people even when it is not meant to be.
+- Try to listen to people and to let them speak, particuly in meetings. Make sure every one had the same opportunity to express their opinion, men as women, juniors as seniors.
+- I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things. So just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
 
-A REFORMULER
-It's the day to day concerns that will drive women and people of color away, no matter how much energy a company puts into big-picture efforts.
+It's the day to day concerns that will drive peolpe away, no matter how much energy a company puts into big-picture efforts.
 --
 
 == And if everything goes wrong...
-- In France, we have a legislation called the "Defenseur des droits". 
-- We also have laws again discrimination
+- "Defenseur des droits"
+- Laws again discrimination
 
 [NOTE.speaker]
 --
  (ex: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018877783[LOI n° 2008-496 du 27 mai 2008])
+I hope you won't have to use it, but if everything goes wrong, we have laws against discrimination. In France, we also have a legislation called the "Defenseur des droits". 
 --
 
 == Do not fear to talk about it
 [NOTE.speaker]
 --
-
+The more we will talk about these issues, the more chance we have to change things. If we all act as if it didn't exist, nothing will ever be done against discriminations.
 --
 
 == The goal is not to have a perfect diverse team but a team with enough diversity 
