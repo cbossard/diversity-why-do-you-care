@@ -6,8 +6,9 @@
 :data-uri:
 :customcss:
 :icons: font
+:transition: fade
 
-image::blackboard.jpeg[background, size=cover]
+
 
 [NOTE.speaker]
 --
