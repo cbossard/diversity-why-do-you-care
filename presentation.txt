@@ -7,41 +7,96 @@
 :customcss:
 :icons: font
 :transition: fade
+:revealjs_history: true
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">First, let's do some exercise :-)</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Everyone, stand up ! (If you can't, just raise your hand)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Now, every man can sit down.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Every white person ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Let's count the remaining persons...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">OK, that was easy. Now, let's start again.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Everyone stand up !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Every white man between 25 and 35 years old can sit down...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">That's not really what we can call diversity, is it ? ...</span>
+	</span>
+</footer>
+++++
 
 
 [NOTE.speaker]
 --
-Let's do some exercise :-)
-Everyone, stand up ! (If you can't, just raise your hand)
-Now, every man can sit down.
-Every white person ?
-...
-OK, that was easy. Now, let's start again. Every white man between 25 and 35 years old... 
-
-That's not really what we can call diversity, is it ? ...
 --
 
 == What is diversity by the way ? 
 
 It's not just about gender or ethnical origins
  
-But also ages, backgrounds, disabilities, languages, ... 
+But also ages, social backgrounds, disabilities, languages, ... 
 
-== What is diversity anyway ? 
+== What is diversity ? 
 image:little_poney.jpg[]    
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">To my point of view, this image really represents diversity</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We have here different kind of animals, of all colors, size, age, social background, disabilities... </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Every one has something to special and unique to share in this world of friendship.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But is it always like that ?  </span>
+	</span>
+</footer>
+++++
 
 [NOTE.speaker]
 --
-I like this image because to my point of view, it really represents diversity. We have here different kind of animals, of all colors, size, age, social background, disabilities. Every one has something to special and unique to share.
+
 --
 
 == Definition
 image:definition.png[]
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">Let's first take a look at the definition from the Cambridge dictionary.</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So now that we all know what we are talking about, let's dig deeper into the subject.</span>
+	</span>
+</footer>
+++++
+
 [NOTE.speaker]
 --
-Let's take a look at the definition from the Cambridge dictionary. [READ THE DEFINITION]
+
 --
 
 == Who am I and why am I talking to you today ?
@@ -49,75 +104,364 @@ Cécilia Bossard, developer
 
 image:codelutin.png[CodeLutin,200]    
 
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I will first tell you more about me, why I am talking to you today, about diversity.</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I'm Cécilia Bossard. I have been a developer for more than 10 years.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I am talking to you as a white woman. So my point of view will not cover everything there is to say about diversity.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out"> I will share with you my experience, what I had to face, and still do face today.  </span>
+	</span>
+</footer>
+++++
+
 [NOTE.speaker]
 --
-I will tell you more about me, why I am talking to you today, about diversity
-
-I'm Cécilia Bossard. I have been a developer for more than 10 years.
-I am talking to you as a white woman. So my point of view will not cover everything there is to say about diversity. I will share with you my experience, and what I had to face, and still do face today.  
 --
 
 == "Hello, Impostor Syndrom!" 
 (aka "You do not belong here...")
 [NOTE.speaker]
 --
-I chose to study computer science a bit by accident. When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to create web pages).
-I liked the way we could build new things and decided to pursue my studies in computer science.
-When I arrived at the University Institute of Technology, I saw that computer science was maybe not really so attractive to young women. We were only 10 girls for 90 boys (and I was told it was a really good year !). 
-I don't remember my classmates beeing sexist or so, but I clearly remember some of my teachers not talking to girls or making it clear we didn't belong here. Nonetheless, maybe because I'm stubborn, I decided to stay.
-In 2nd year, their were even fewer girls... 
-After these 2 years, I had understood that programming was not a girls' thing. So I decided to pursue my studies to become a project manager ! 
-I arrived at my engineering school, where once again, there were only 10% of women... This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.
-But still, I heard people around me say things like "You chose to study computer science only to find a good husband". (By the way, do you ask nurse or a teacher if they chose this job to find a wife ?)
-And there were always a little voice in my head saying "You are here just to enhance the statistics, not because you earned it". Hello impostor syndrom !
-As an aside : It's exactly the same with video games. If you are a women playing video games online, you're always accused of flirting. You are playing just to find a boyfriend, not because maybe you can find it fun... And honestly, it's not only my lack of time that has made me stop playing online video games... I'm just fed up with having to justify myself all the time for something I do (I did) because I enjoyed it.
 --
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I chose to study computer science a bit by accident. </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to create web pages).</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I liked the way we could build new things and decided to pursue my studies in computer science.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">When I arrived at the University, I saw that computer science was maybe not really so attractive to young women.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">We were only 10 girls for 90 boys (and I was told it was a really good year !). </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I don't remember my classmates beeing sexist or so, </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">but I clearly remember some of my teachers not talking to girls or making it clear we didn't belong here.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">Nonetheless, maybe because I'm stubborn, I decided to stay.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">In 2nd year, their were even fewer girls... </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">After these 2 years, I had understood that programming was not a girls' thing.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">So I decided to pursue my studies to become a project manager ! </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I arrived at my engineering school, where once again, there were only 10% of women... </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">This time, maybe because I was prepared and used to it, but I can't remember any discrimination between boys and girls.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">But still, I heard people around me say things like "You chose to study computer science only to find a good husband".</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">(By the way, do you ask nurse or a teacher if they chose this job to find a wife ?)</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">As an aside : It's exactly the same with video games.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">If you are a women playing video games online, you're always accused of flirting.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">You are playing just to find a boyfriend, not because maybe you can find it fun...</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">And honestly, it's not only my lack of time that has made me stop playing online video games...</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I'm just fed up with having to justify myself all the time for something I do (I did) because I enjoyed it.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">/end</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">Despite these litte troubles, evenry thing was going well :-) </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">But there were always a little voice in my head saying "You are here just to enhance the statistics, not because you earned it". </span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">Hello, dear impostor syndrom !</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">After graduating, I started to work in a big computer science company.</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out"> I was told that because I was junior, I had to start as a developer, and could become project manager after a few years.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Great ! Let's do this !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So I programmed, learned new frameworks, new languages, had fun learning new things... (and enjoyed it)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But every time I was presented to clients, I was told to wear a dress or a skirt.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Did the client only choose me because of my legs or was it because I had the required technical competences ? </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Hello again, impostor syndrom !</span>
+	</span>
+</footer>
+++++
 
 == Bad luck ? 
 Loss of meaning
+
+
+++++
+<footer class="title-footer">
+   
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After a few years, I started to see my classmates becomming project manager, architect, technical referent... </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So I said to myself that maybe it was the moment for my career to evolve too.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But I was told that I had not enough technical background or experience for now.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I'm still wondering why ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Was it just bad luck, a lack of opportunities ? Or am I so bad at what I do ? I wasn't even given a chance to try...</span>
+	</span>
+ <span class="fragment fade-in">
+        <span class="fragment fade-out">I started to loose interest in my work</span>
+	</span>
+        
+</footer>
+++++
+
 [NOTE.speaker]
 --
-After graduating, I started to work in a big computer science company. I was told that because I was junior, I had to start as a developer, and could become project manager after a few years. Great ! Let's do this !
-So I programmed, learned new frameworks, new languages, had fun learning new things... 
-But every time I was presented to clients, I was told to wear a dress or a skirt. Did the client only choose me because of my legs or was it because I had the required technical competences ? Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden. I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.
-After a few years, I started to see my classmates becomming project manager, architect, technical referent... So I said to myself that maybe it was the moment for my career to evolve. But I was told that I had not enough technical background or experience for now. I'm still wondering why ? Why did all my classmates, who were by the way all white men, have the opportunity to evolve and not me ? Was it just bad luck, a lack of opportunities ? Or am I so bad at what I do ? I wasn't even given a chance to try...
+  
 -- 
 
 == "It was just a joke ;-)"
+Grumpy me
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And I started to become a little grumpy at work</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Despite all the jokes my collegues used to tell !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">In every team I worked with, there were (are) always sexist jokes</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Once or twice, it can be OK - sometimes even fun - , but not all day long... </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And when I got upset, people just told me "It was just a joke", "you're really annoying with your angry feminism". </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So I became eve more grumpy...</span>
+	</span>
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
-And in every team I worked with, there were always sexist jokes. Once or twice, it can be OK - sometimes even fun - , but not all day long... 
-And when I got upset, people just told me "It was just a joke", "you're really annoying with your angry feminism". 
+
 --
+
+== Mothership ?
+developers = children ?
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Because I was not "technical enough", I decided to change path and dig deeper into agile methodology.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">By the way, I had my first child.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After my maternity leave, my manager told me that everything would be different, now that I was a mom.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I could start managing people and projects. What ?!?!</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Just because I could barely manage my 3 months old daughter, it meant I could manage a bunch of developers and clients ? </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I pursued my personnal investment into agile methods hoping to find a company where I could really help people</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">and be hired thanks to my technical skills and not because I was a woman.</span>
+	</span>
+</footer>
+++++
+
 
 == I have to do something to change the situation !
 Investment into communities, sponsorship 
 
 image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]    
-[NOTE.speaker]
---
-Because I was not "technical enough", I decided to change path and dig deeper into agile methodology. By the way, I had my first child. After my maternity leave, my manager told me that everything would be different, now that I was a mom. I could start managing people and projects. What ?!?! Just because I could barely manage my 3 months old daughter, it meant I could manage a bunch of developers and clients ? 
-I pursued my personnal investment into agile methods hoping to find a company where I could really help people and be hired thanks to my technical skills and not because I was a woman.
-After the birth of my second daughter, my husband and I decided to give my career a boost, while he put his aside (and I thank him hugely for it !). So I became more active into communities and started to really see what was going on. Every time I was at a meetup or at a conference, people started to ask me if I understood what was said, if I was here to recruit people or to meet some clients. I can say this really really bothered me. So, maybe the only way to show people you are competent is to give talks at conferences ? But what should I talk about ? I'm not "technical enough" !
 
-At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science. We started a group in Nantes called Women In Tech (because in Nantes, Duchess refers to the Duchess Anne of Britanny). But because we all lack time, it is not really active in Nantes... But thanks to them, I started to dare speak at conferences ! But I still do not dare speak about technical subjects, only about soft skills.
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After the birth of our second daughter, my husband and I decided to give my career a boost, while he put his aside (and I thank him hugely for it !)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So I became more active into communities and started to really see what was going on.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Every time I was at a meetup or at a conference, people started to ask me </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">if I understood what was said, if I was here to recruit people or to meet some clients.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I can say this really really bothered me...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So, maybe the only way to show people you are competent is to give talks at conferences ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But what should I talk about ? I'm not "technical enough" !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">At that time, I joined the Duchess France community and tried to help enhancing the proportion of women in computer science.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We also started a group in Nantes called Women In Tech</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">(But because we all lack time, it is not really active in Nantes...)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And thanks to them, I started to dare speak at conferences ! </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But I still do not dare speak about technical subjects, only about soft skills...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I'm also glad I had the opportunities to meet other women in tech </span>
+	</span>
+</footer>
+++++
+
+[NOTE.speaker]
+
+--
 --
 
 == Break the stereotypes ! 
 
 image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After a few years, our daughters asked us what we were doing at work.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We found it quite hard to explain to a 3 years old,</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">and decided to show them directly by organising parent and children coding sessions in Nantes.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Maybe if we could by this way break the stereotypes as early as possible, girls would later chose a technical carreer without fear !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We have been doing it for 4 years and we are still enjoying it.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For instance, we have also seen a girl coming only because her little brother were interessted,</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">and finally coming back month after month, while her little brother never showed up again :-)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And I must confess that sometimes, I keep organising those sessions just because of her.</span>
+	</span>
+</footer>
+++++
    
 [NOTE.speaker]
 --
-After a few years, our daughters asked us what we were doing at work. We found it quite hard to explain to a 3 years old, and decided to show them directly by organising parent and children coding sessions in Nantes. Maybe if we could by this way break the stereotypes as early as possible, girls would later chose a technical carreer without fear ! We have been doing it for 4 years and we are still enjoying it. We have seen little girls become teenagers and still enjoy programming and that's really great ! For instance, we have also seen a girl coming only because her little brother were interessted, and finally coming back month after month, while her little brother never showed up again. And I must confess that sometimes, I keep organising those sessions just because of her.
+        
 -- 
 
 == "Just stop complaining !"
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After hearing what I said, you might think "She is complaining all the time, it is not that bad"</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I just wanted to show you that even though I had a quiet career,</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I have the impression that I had to fight more than white men to achieve the same goals.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out"> Am I the only one ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">After talking with other women, it occurs to me that I am no exception.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I think we are facing the same issues as black persons, asians, big, skinny, old, young people, ... </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Everybody that is not "a 30 years old christian straight white man".</span>
+	</span>
+
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
-I just wanted to show you that even though I had a quiet career, I have the impression that I had to fight more than white men to achieve the same goals. Am I the only one ?
-After talking with other women, it occurs to me that I am no exception.
-I think we are facing the same issues as black persons, asians, big, skinny, old, young people, ... Everybody that is not "a 30 years old christian straight white man".
 --
 == Why is diversity even important ?
 [quote]
@@ -125,19 +469,32 @@ ___________________________________________
 A diverse group of problem-solvers usually has a better chance of outperforming a less diverse team, thanks to the broader range of experiences each member brings to the table.
 ___________________________________________
 
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">OK. But why do we need diversity among our teams ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Diversity among a group of problem solvers is more important than individual excellence.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">People from different backgrounds do, on average, tend to approach work and problem solving differently. </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And solving problem is exactly what we do every day !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">These differences can bring new perspectives needed to promote innovation.</span>
+	</span>
+
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
-Diversity among a group of problem solvers is more important than individual excellence.
-And solving problem is exactly what we do every day !
-People from different backgrounds do, on average, tend to approach work and problem solving differently. These differences can bring new perspectives needed to promote innovation.
 --
-
-== More slides about diversity
-with facts !
-
-== It is not always that great
-A meta-analysis conducted on 108 studies and more than 10,100 teams reports that the enhanced creativity produced by teams with higher diversity is interrupted by deep-rooted social conflict and decision-making dilemmas that are rarely found in homogenous groups.
-
 
 
 == What can we change ?
@@ -149,24 +506,91 @@ Break the stereotypes !
 
 image:maths.jpeg[Girls suck at maths]
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">As I showed you before, we can help break the stereotypes, show that IT can be fun and is for everyone !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Just please, please, do not tell children "Girls can't do these, boys can't do those"</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">or "You need to be good at maths to study computer science", "You are too old to learn programming"...</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I've heard this too much and the impact are huge !</span>
+	</span>
+
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
-As I showed you before, we can help break the stereotypes, show that IT can be fun and is for everyone !
-Just please, please, do not tell children "Girls can't do these, boys can't do those" or "You need to be good at maths to study computer science", "You are too old to learn programming"... I've heard this too much !
+
+  
 --
 
 == During childhood
 image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:girlswhocode.png[Girls who code, 200] image:blackgirlcode.jpeg[Black Girl Code,200] image:railsgirls.jpeg[Rails Girls,200]
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Initiatives like devoxx4kids, girls who code, rails girls, ... can help break the stereotypes.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We can see that they attract a lot of people and it's a really good thing !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But sadly, we often have to force parity  so that girls may have time to apply</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Otherwise, all the tickets would we taken by boys.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives.</span>
+	</span>
+</footer>
+++++
+
 [NOTE.speaker]
 --
-Initiatives like devoxx4kids, girls who code, rails girls, ... can help break the stereotypes. We can see that they attract a lot of people and it's a really good thing !
-But sadly, we often have to force parity  so that girls may have time to apply: for example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets. The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls. Otherwise, all the tickets would we taken by boys. Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives. 
+    
 --
 
 == Training
 - Provide mentorship and role models
 - Give a meaning to the training
 - Connect STEM with other disciplines like humanities or art
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">If you have the opportinuty to teach things to young person</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">try to provide mentorship and role models.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Seeing that people like you have succeeded in this field can be a great support.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And beeing mentored by someone  /TO BE COMPLETED /</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">An other way to "attract diversity" /TO BE COMPLETED /</span>
+	</span>
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
 
@@ -191,19 +615,30 @@ Change your process ?
 
 == At work
 - Sponsorship
-- Work hours
-- Clothes
-- Tasks distribution 
 - Religious holidays
+
 
 [NOTE.speaker]
 --
 - Provide sponsorship. Show that you care and accept everyone.
-- Take care of your meeting times. Some people have to take care of beloved ones / significant others and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human being, try to adapt ! Maybe just ask what the best time would be and timebox the meetings
-- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is in both directions.
-- Front end for girls / Back end for boys ?
 - Some people might need days off for religious purpose. Take this into consideration in your schedules. 
 --
+
+== At work
+- Tasks distribution 
+- Work hours
+- Clothes
+
+
+
+[NOTE.speaker]
+--
+- Front end for girls / Back end for boys ?
+- Take care of your meeting times. Some people have to take care of beloved ones / significant others and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human being, try to adapt ! Maybe just ask what the best time would be and timebox the meetings
+- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is in both directions.
+
+--
+
 
 == Day to day live
 - Speaking 
@@ -217,10 +652,19 @@ Change your process ?
 It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
 Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !). Some expression can be offensive towards people even when it is not meant to be.
 - while speaking is important, listening is even more important ! Try to listen to people and let them speak, particuly in meetings. Make sure every one had the same opportunity to express their opinion, men as women, juniors as seniors.
-- I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things. So just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
+--
+
+== Day to day live
+
+- Chores distribution (at home *_and_* at work)
+
+[NOTE.speaker]
+--
+I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things. So just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
 
 It's the day to day concerns that will drive peolpe away, no matter how much energy a company puts into big-picture efforts.
 --
+
 
 == And if everything goes wrong...
 - "Defenseur des droits"
@@ -248,14 +692,16 @@ icon:heart[2x]
 
 == Thanks !
 
-
-
-
-NOTE: And special thanks to all of those who helped and supported me with this presentation !
+[NOTE]
+--
+And special thanks to all of those who helped and supported me with this presentation !
 
 - Jean, Gervaise
+- Jayanti (www.speaksafe.fr)
+- Code Lutin
 - Duchess France
 - Femmes Ingénieures Pays de la Loire
-- Code Lutin
+--
+
 
 
