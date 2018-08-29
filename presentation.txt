@@ -198,13 +198,13 @@ image:codelutin.png[CodeLutin,200]
 		<span class="fragment fade-out">/end</span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">Despite these litte troubles, evenry thing was going well :-) </span> 
+		<span class="fragment fade-out">Despite these litte troubles, everything was going well :-) </span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">But there were always a little voice in my head saying "You are here just to enhance the statistics, not because you earned it". </span> 
+		<span class="fragment fade-out">But there were always a little voice in my head saying "You are just here to enhance the statistics, not because you earned it". </span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">Hello, dear impostor syndrom !</span> 
+		<span class="fragment fade-out">Welcome, Impostor Syndrom !</span> 
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">After graduating, I started to work in a big computer science company.</span> 
@@ -231,7 +231,7 @@ image:codelutin.png[CodeLutin,200]
         <span class="fragment fade-out">I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Hello again, impostor syndrom !</span>
+        <span class="fragment fade-out">Hello again, dear impostor syndrom !</span>
 	</span>
 </footer>
 ++++
@@ -262,7 +262,7 @@ Loss of meaning
         <span class="fragment fade-out">Was it just bad luck, a lack of opportunities ? Or am I so bad at what I do ? I wasn't even given a chance to try...</span>
 	</span>
  <span class="fragment fade-in">
-        <span class="fragment fade-out">I started to loose interest in my work</span>
+        <span class="fragment fade-out">And so, I started to loose interest in my work</span>
 	</span>
         
 </footer>
@@ -274,7 +274,7 @@ Loss of meaning
 -- 
 
 == "It was just a joke ;-)"
-Grumpy me
+meet grumpy me
 
 ++++
 <footer class="title-footer">
@@ -288,13 +288,13 @@ Grumpy me
         <span class="fragment fade-out">In every team I worked with, there were (are) always sexist jokes</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Once or twice, it can be OK - sometimes even fun - , but not all day long... </span>
+        <span class="fragment fade-out">Once or twice, it can be OK, sometimes even fun, but not all day long... </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">And when I got upset, people just told me "It was just a joke", "you're really annoying with your angry feminism". </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">So I became eve more grumpy...</span>
+        <span class="fragment fade-out">So I became even more grumpy...</span>
 	</span>
 </footer>
 ++++
@@ -343,7 +343,10 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">After the birth of our second daughter, my husband and I decided to give my career a boost, while he put his aside (and I thank him hugely for it !)</span>
+        <span class="fragment fade-out">After the birth of our second daughter, my husband and I decided to give my career a boost</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">while he put his aside (and I thank him hugely for it !)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">So I became more active into communities and started to really see what was going on.</span>
@@ -358,7 +361,7 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
         <span class="fragment fade-out">I can say this really really bothered me...</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">So, maybe the only way to show people you are competent is to give talks at conferences ?</span>
+        <span class="fragment fade-out">So, maybe the only way to show people you are competent is to give technical talks at conferences ?</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">But what should I talk about ? I'm not "technical enough" !</span>
@@ -379,7 +382,7 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
         <span class="fragment fade-out">But I still do not dare speak about technical subjects, only about soft skills...</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">I'm also glad I had the opportunities to meet other women in tech </span>
+        <span class="fragment fade-out">I'm also glad I had the opportunities to meet other women in tech who faced the same issues as mine</span>
 	</span>
 </footer>
 ++++
@@ -414,10 +417,16 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
         <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great !</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">For instance, we have also seen a girl coming only because her little brother were interessted,</span>
+        <span class="fragment fade-out">For instance, we have also seen a girl coming only because her little brother were interested,</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">and finally coming back month after month, while her little brother never showed up again :-)</span>
+        <span class="fragment fade-out">At the first session, she only played with her phone</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">but started to look at what the other were doing</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">and finally, she is coming back month after month, while her little brother never showed up again :-)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">And I must confess that sometimes, I keep organising those sessions just because of her.</span>
@@ -555,7 +564,10 @@ image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:g
         <span class="fragment fade-out">Otherwise, all the tickets would we taken by boys.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Our next step will be to try to communicate more outside our IT world and give access to this event to children who are not digital natives.</span>
+        <span class="fragment fade-out">Our next step will be to try to communicate more outside our IT world</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">and give access to this event to children who are not digital natives.</span>
 	</span>
 </footer>
 ++++
