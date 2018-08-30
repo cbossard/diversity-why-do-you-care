@@ -75,11 +75,6 @@ image:little_poney.jpg[]
 </footer>
 ++++
 
-[NOTE.speaker]
---
-
---
-
 == Definition
 image:definition.png[]
 
@@ -93,11 +88,6 @@ image:definition.png[]
 	</span>
 </footer>
 ++++
-
-[NOTE.speaker]
---
-
---
 
 == Who am I and why am I talking to you today ?
 Cécilia Bossard, developer
@@ -122,15 +112,8 @@ image:codelutin.png[CodeLutin,200]
 </footer>
 ++++
 
-[NOTE.speaker]
---
---
-
 == "Hello, Impostor Syndrom!" 
 (aka "You do not belong here...")
-[NOTE.speaker]
---
---
 
 ++++
 <footer class="title-footer">
@@ -239,7 +222,6 @@ image:codelutin.png[CodeLutin,200]
 == Bad luck ? 
 Loss of meaning
 
-
 ++++
 <footer class="title-footer">
    
@@ -266,12 +248,7 @@ Loss of meaning
 	</span>
         
 </footer>
-++++
-
-[NOTE.speaker]
---
-  
--- 
+++++ 
 
 == "It was just a joke ;-)"
 meet grumpy me
@@ -299,13 +276,7 @@ meet grumpy me
 </footer>
 ++++
 
-
-[NOTE.speaker]
---
-
---
-
-== Mothership ?
+== Motherhood
 developers = children ?
 
 ++++
@@ -314,7 +285,7 @@ developers = children ?
         <span class="fragment fade-out">Because I was not "technical enough", I decided to change path and dig deeper into agile methodology.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">By the way, I had my first child.</span>
+        <span class="fragment fade-out">By the way, I had my first child.</span> 
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">After my maternity leave, my manager told me that everything would be different, now that I was a mom.</span>
@@ -387,14 +358,9 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
 </footer>
 ++++
 
-[NOTE.speaker]
-
---
---
-
 == Break the stereotypes ! 
 
-image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
+image:d4k.png[Devoxx4Kids, 200,align="center"]     image:codinggouter.png[CodingGouter, 200,align="center"]
 
 ++++
 <footer class="title-footer">
@@ -434,11 +400,6 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
 </footer>
 ++++
    
-[NOTE.speaker]
---
-        
--- 
-
 == "Just stop complaining !"
 
 ++++
@@ -468,16 +429,11 @@ image:d4k.png[Devoxx4Kids, 200]     image:codinggouter.png[CodingGouter, 200]
 </footer>
 ++++
 
-
-[NOTE.speaker]
---
---
 == Why is diversity even important ?
 [quote]
 ___________________________________________
 A diverse group of problem-solvers usually has a better chance of outperforming a less diverse team, thanks to the broader range of experiences each member brings to the table.
 ___________________________________________
-
 
 ++++
 <footer class="title-footer">
@@ -499,12 +455,6 @@ ___________________________________________
 
 </footer>
 ++++
-
-
-[NOTE.speaker]
---
---
-
 
 == What can we change ?
 Let's do it with Baby steps :-)
@@ -533,15 +483,10 @@ image:maths.jpeg[Girls suck at maths]
 </footer>
 ++++
 
-
-[NOTE.speaker]
---
-
-  
---
-
 == During childhood
-image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:girlswhocode.png[Girls who code, 200] image:blackgirlcode.jpeg[Black Girl Code,200] image:railsgirls.jpeg[Rails Girls,200]
+image:codinggouter.png[CodingGouter,200] image:d4k.png[Devoxx4kids, 200] image:girlswhocode.png[Girls who code, 200] 
+
+image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls,200]
 
 ++++
 <footer class="title-footer">
@@ -572,11 +517,6 @@ image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:g
 </footer>
 ++++
 
-[NOTE.speaker]
---
-    
---
-
 == Training
 - Provide mentorship and role models
 - Give a meaning to the training
@@ -594,29 +534,56 @@ image:d4k.png[Devoxx4kids, 200] image:codinggouter.png[CodingGouter,200] image:g
         <span class="fragment fade-out">Seeing that people like you have succeeded in this field can be a great support.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">And beeing mentored by someone  /TO BE COMPLETED /</span>
+        <span class="fragment fade-out">And beeing mentored by someone that has faced the same issues can really help get over them.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">An other way to "attract diversity" /TO BE COMPLETED /</span>
+        <span class="fragment fade-out">An other way to "attract diversity" into STEM, is to associate disciplines to a meaning</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For instance, instead of naming your formation "Deep dive into Machine learning"</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">you could try "Increase organic farming performance through statistics and algorithm "</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">The content of the training would be the same, but you will not have only maths geek students ;-)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Be creative and find connections with other disciplines !</span>
 	</span>
 </footer>
 ++++
-
-
-[NOTE.speaker]
---
-
---
 
 == Recruitment
 - Take care of your job description !
 * Free pizza / bier / table tennis, ...
 * vs. Remote work, time to take care of your beloved ones, equity in treatment, respect, ...
 
-[NOTE.speaker]
---
 
---
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Once students have graduated, it is time to recruit them !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Be really carefull about your job description</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">What kind of person do you want to attract ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Is it young people who want to have fun and can stay late ?</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">In this case, the first description can be fine</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Or do you want more mature people with a good life balance, implied in communities, ... ?</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">In that case, reflect it in your job description and show what you can offer</span>
+	</span>	
+</footer>
+++++
 
 == Recruitment
 Change your process ?
@@ -625,74 +592,266 @@ Change your process ?
 - Technical recruitment tests 
 - ...
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">When you receive resumes, it can be a good practice to anonymise them</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Even though we do not want do, we have implicit bias (about gender, social background, age, ...) that can blur our opinions</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those bias</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">If you are searching for some technical skills, you can also provide technical tests</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">With those tests, you will not be influenced by which school people attended,</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">which company they worked with, which projects they worked in, ... to have an idea about their technical level.</span>
+	</span>
+</footer>
+++++
+
 == At work
 - Sponsorship
 - Religious holidays
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Once people are recruited, your goal is often to make them stay and feel good in your team.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">To achieve these goals, provide sponsorship</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Show that you care and accept everyone.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Do not accept aggressive behavior towards minorities</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Do not let even little misbehavior become normal</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Christian holidays in not the norm for everyone</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Try to take this into consideration in your schedules</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For instance, if people are muslims in your team </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">try to avoid a big launch of your project during Ramadan</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">They might not be really effective and people might blame them because of their religion</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Whereas nobody is deploying a new version of a software for Christmas...</span>
+    </span>
 
-[NOTE.speaker]
---
-- Provide sponsorship. Show that you care and accept everyone.
-- Some people might need days off for religious purpose. Take this into consideration in your schedules. 
---
+</footer>
+++++
 
 == At work
 - Tasks distribution 
 - Work hours
 - Clothes
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">There are also little actions at work that can help enhance the situation</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For instance, be carefull on the tasks distribution</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I have too often seen things like "Front-end for girls" / "Back-end for boys"</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Because, apparently, women know how to make pretty things</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Are you really sure about it ? For instance, have you already seen me draw ? (hint : it's really not pretty)</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Just ask people what they prefer to work on (be agile ? :-D)</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Another thing you should be aware of, is meeting times</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Some people have to take care of beloved ones / significant others and can't stay late,</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">some have buses to catch, some can't work efficiently in the morning...</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">You are working with human being, try to adapt !</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Maybe just ask what the best time would be and timebox the meetings</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">You will see people more relaxed and able to concentrate on the discussions</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Last but not least, let's talk about clothes</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I've noticed that every summer, the problem reappears</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Why can't we see men's legs at work while women can wear short skirts ?</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Would it be the same if women didn't shave their legs ? I have never been given a real answer to this question...</span>
+    </span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Nonetheless, equality is in both directions.</span>
+    </span>
+</footer>
+++++
 
-
-[NOTE.speaker]
---
-- Front end for girls / Back end for boys ?
-- Take care of your meeting times. Some people have to take care of beloved ones / significant others and can't stay late, some have buses to catch, some can't work efficiently in the morning... You are working with human being, try to adapt ! Maybe just ask what the best time would be and timebox the meetings
-- There is also a big problem whith clothes, especially in summer. Why can't we see men's legs at work while women can wear really short skirts ? Were it the same if women didn't shave their legs ? I have never been given a real answer to this question... Nonetheless, equality is in both directions.
-
---
-
-
-== Day to day live
+== Communication
 - Speaking 
 - Listening
-- Chores distribution (at home *_and_* at work)
 
-[NOTE.speaker]
---
-"Violence symbolique"
-- Be careful about the way you speak. Not everyone has the same knowledge. When citing someone, just take time to make sure everyone knows the reference or explain it. When talking about a framework, make sure everyone knows it or again, take time to explain. It's during such conversations that people can feel that they are set aside and do not belong here.
-It is the same with humor. Not everyone has the same sense of humor and some jokes might be offensive to certain people. Don't be afraid to say "I'm sorry" if you hurt someone.
-Also, mind your swear words. If you are like me when you are coding, swear words are easilly said. Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !). Some expression can be offensive towards people even when it is not meant to be.
-- while speaking is important, listening is even more important ! Try to listen to people and let them speak, particuly in meetings. Make sure every one had the same opportunity to express their opinion, men as women, juniors as seniors.
---
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Little actions can also be implemented in our day to day life</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Typically while we communicate</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Be careful about the way you speak. Not everyone has the same knowledge. </span>
+	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out"> When citing someone, just take time to make sure everyone knows the reference or explain it.</span>
+	</span>   
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">When talking about a framework, make sure everyone knows it or again, take time to explain.</span>
+	</span>   
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">It's during such conversations that people can feel that they are set aside and do not belong here.</span>
+	</span>   
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">And it is the same with humor. </span>
+	</span>  
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">Not everyone has the same sense of humor and some jokes might be offensive to certain people.</span>
+	</span> 
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">Don't be afraid to say "I'm sorry" if you hurt someone.</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Speaking of hurting someone, try to mind your swear words</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">If you are like me when you are coding, swear words are easilly said. </span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Try not to use sexualized swear words like in french "Putain" (I know, it is not easy !)</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">or talk about a really "sexy" framework</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Some expression can be offensive towards people even when it is not meant to be.</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And a little thing that happen really often, is using the word "guys" to mean "people".</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">It's actually not a gender neutral word... It might be felt like a daily reminder that women can not be part of the team.</span>
+	</span> 
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">While speaking is important, listening is even more important !</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Try to listen to people and let them speak, particuly in meetings.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Make sure every one had the same opportunity to express their opinion, men as women, juniors as seniors.</span>
+	</span>
+</footer>
+++++
 
 == Day to day live
 
 - Chores distribution (at home *_and_* at work)
 
-[NOTE.speaker]
---
-I also wanted to add something about chores distribution. Cooking, cleaning, child care, ... Men also do all these things. So just let them time to take care of their children, to be at home. Allowing remote work can also be a great solution !
-
-It's the day to day concerns that will drive peolpe away, no matter how much energy a company puts into big-picture efforts.
---
-
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I also wanted to add something about chores distribution.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Cooking, cleaning, child care, ... Men also do all these things.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">So just let them time to take care of their children, to be at home. </span>
+	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">Allowing remote work can also be a great solution !</span>
+	</span>   
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">It's the day to day concerns that will drive peolpe away, no matter how much energy a company puts into big-picture efforts.</span>
+	</span>   
+    
+</footer>
+++++
 
 == And if everything goes wrong...
 - "Defenseur des droits"
 - Laws again discrimination
 
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I hope you won't have to use it, but if everything goes wrong, we have laws against discrimination.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">In France, we also have a legislation called the "Defenseur des droits". </span>
+	</span>
+  
+    
+</footer>
+++++
+
+
 [NOTE.speaker]
 --
  (ex: https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018877783[LOI n° 2008-496 du 27 mai 2008])
-I hope you won't have to use it, but if everything goes wrong, we have laws against discrimination. In France, we also have a legislation called the "Defenseur des droits". 
+ 
 --
 
 == Do not fear to talk about it
-[NOTE.speaker]
---
-The more we will talk about these issues, the more chance we have to change things. If we all act as if it didn't exist, nothing will ever be done against discriminations.
---
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">I you feel discriminated or are witnessing such behaviour</span>
+	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">do not hesitate to talk about it.</span>
+	</span>  
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">The more we will talk about these issues, the more chance we have to change things. </span>
+	</span> 
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">If we all act as if it didn't exist, nothing will ever be done against discriminations.</span>
+	</span> 
+</footer>
+++++
+
 
 == The goal is not to have a perfect diverse team but a team with enough diversity 
 
@@ -714,6 +873,7 @@ And special thanks to all of those who helped and supported me with this present
 - Duchess France
 - Femmes Ingénieures Pays de la Loire
 --
+icon:heart[2x]
 
 
 
