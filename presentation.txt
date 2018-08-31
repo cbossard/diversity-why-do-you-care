@@ -12,7 +12,13 @@
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-		<span class="fragment fade-out">First, let's do some exercise :-)</span> 
+		<span class="fragment fade-out">Hello everyone</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">I will talk to you about something completely different.</span> 
+	</span>
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">But first, let's do some exercise :-)</span> 
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Everyone, stand up ! (If you can't, just raise your hand)</span>
