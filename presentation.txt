@@ -30,7 +30,7 @@
         <span class="fragment fade-out">Every white person ?</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Let's count the remaining persons...</span>
+        <span class="fragment fade-out">Let's count how many people are still standing...</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">OK, that was easy. Now, let's start again.</span>
@@ -61,26 +61,6 @@ It's not just about gender or ethnical origins
  
 But also ages, social backgrounds, disabilities, languages, ... 
 
-== What is diversity ? 
-image:little_poney.jpg[]    
-
-++++
-<footer class="title-footer">
-    <span class="fragment fade-in">
-		<span class="fragment fade-out">To my point of view, this image really represents diversity</span> 
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">We have here different kind of animals, of all colors, size, age, social background, disabilities... </span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">Every one has something to special and unique to share in this world of friendship.</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">But is it always like that ?  </span>
-	</span>
-</footer>
-++++
-
 == Definition
 image:definition.png[]
 
@@ -94,6 +74,28 @@ image:definition.png[]
 	</span>
 </footer>
 ++++
+
+== What is diversity ? 
+image:little_poney.jpg[]    
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+		<span class="fragment fade-out">To me, this image really represents diversity</span> 
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">We have here different kind of animals, of all colors, size, age, social background, disabilities... </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Every one has something special and unique to share in this world of friendship.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">But is it always like that ?  </span>
+	</span>
+</footer>
+++++
+
+
 
 == Who am I and why am I talking to you today ?
 Cécilia Bossard, developer
@@ -133,7 +135,7 @@ image:codelutin.png[CodeLutin,200]
 		<span class="fragment fade-out">I liked the way we could build new things and decided to pursue my studies in computer science.</span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">When I arrived at the University, I saw that computer science was maybe not really so attractive to young women.</span> 
+		<span class="fragment fade-out">When I arrived at University, I saw that computer science was maybe not really so attractive to young women.</span> 
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">We were only 10 girls for 90 boys (and I was told it was a really good year !). </span> 
@@ -148,7 +150,7 @@ image:codelutin.png[CodeLutin,200]
 		<span class="fragment fade-out">Nonetheless, maybe because I'm stubborn, I decided to stay.</span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">In 2nd year, their were even fewer girls... </span> 
+		<span class="fragment fade-out">In 2nd year, there were even fewer girls... </span> 
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">After these 2 years, I had understood that programming was not a girls' thing.</span> 
@@ -187,7 +189,7 @@ image:codelutin.png[CodeLutin,200]
 		<span class="fragment fade-out">/end</span> 
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">Despite these litte troubles, everything was going well :-) </span> 
+		<span class="fragment fade-out">Despite these litte issues, everything was going well :-) </span> 
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">But there were always a little voice in my head saying "You are just here to enhance the statistics, not because you earned it". </span> 
@@ -238,7 +240,7 @@ Loss of meaning
         <span class="fragment fade-out">So I said to myself that maybe it was the moment for my career to evolve too.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">But I was told that I had not enough technical background or experience for now.</span>
+        <span class="fragment fade-out">But I was told that I didn't have enough technical background or experience for now.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I'm still wondering why ?</span>
@@ -250,7 +252,7 @@ Loss of meaning
         <span class="fragment fade-out">Was it just bad luck, a lack of opportunities ? Or am I so bad at what I do ? I wasn't even given a chance to try...</span>
 	</span>
  <span class="fragment fade-in">
-        <span class="fragment fade-out">And so, I started to loose interest in my work</span>
+        <span class="fragment fade-out">And so, I started to lose interest in my work</span>
 	</span>
         
 </footer>
@@ -277,7 +279,7 @@ meet grumpy me
         <span class="fragment fade-out">And when I got upset, people just told me "It was just a joke", "you're really annoying with your angry feminism". </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">So I became even more grumpy...</span>
+        <span class="fragment fade-out">So I became even grumpier...</span>
 	</span>
 </footer>
 ++++
@@ -374,13 +376,13 @@ image:d4k.png[Devoxx4Kids, 200,align="center"]     image:codinggouter.png[Coding
         <span class="fragment fade-out">After a few years, our daughters asked us what we were doing at work.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">We found it quite hard to explain to a 3 years old,</span>
+        <span class="fragment fade-out">We found it quite hard to explain to a 3-year old,</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">and decided to show them directly by organising parent and children coding sessions in Nantes.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Maybe if we could by this way break the stereotypes as early as possible, girls would later chose a technical carreer without fear !</span>
+        <span class="fragment fade-out">Maybe if we could in this way break the stereotypes as early as possible, girls would later choose a technical carreer without fear !</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">We have been doing it for 4 years and we are still enjoying it.</span>
@@ -389,16 +391,16 @@ image:d4k.png[Devoxx4Kids, 200,align="center"]     image:codinggouter.png[Coding
         <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great !</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">For instance, we have also seen a girl coming only because her little brother were interested,</span>
+        <span class="fragment fade-out">For instance, we have also seen a girl coming only because her little brother was interested,</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">At the first session, she only played with her phone</span>
+        <span class="fragment fade-out">During the first session, she only played with her phone</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">but started to look at what the other were doing</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">and finally, she is coming back month after month, while her little brother never showed up again :-)</span>
+        <span class="fragment fade-out">and finally, she has been coming back month after month, while her little brother never showed up again :-)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">And I must confess that sometimes, I keep organising those sessions just because of her.</span>
@@ -426,7 +428,7 @@ image:d4k.png[Devoxx4Kids, 200,align="center"]     image:codinggouter.png[Coding
         <span class="fragment fade-out">After talking with other women, it occurs to me that I am no exception.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">I think we are facing the same issues as black persons, asians, big, skinny, old, young people, ... </span>
+        <span class="fragment fade-out">I think we are facing the same issues as black people, asians, big, skinny, old, young people, ... </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Everybody that is not "a 30 years old christian straight white man".</span>
@@ -463,7 +465,7 @@ ___________________________________________
 ++++
 
 == What can we change ?
-Let's do it with Baby steps :-)
+Let's take baby steps :-)
 
 == During childhood
 
@@ -531,7 +533,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">If you have the opportinuty to teach things to young person</span>
+        <span class="fragment fade-out">If you have the opportinuty to teach things to young people</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">try to provide mentorship and role models.</span>
@@ -540,13 +542,13 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
         <span class="fragment fade-out">Seeing that people like you have succeeded in this field can be a great support.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">And beeing mentored by someone that has faced the same issues can really help get over them.</span>
+        <span class="fragment fade-out">And being mentored by someone that has faced the same issues can really help get over them.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">An other way to "attract diversity" into STEM, is to associate disciplines to a meaning</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">For instance, instead of naming your formation "Deep dive into Machine learning"</span>
+        <span class="fragment fade-out">For instance, instead of naming your training "Deep dive into Machine learning"</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">you could try "Increase organic farming performance through statistics and algorithm "</span>
@@ -572,7 +574,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
         <span class="fragment fade-out">Once students have graduated, it is time to recruit them !</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Be really carefull about your job description</span>
+        <span class="fragment fade-out">Be really careful about your job description</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">What kind of person do you want to attract ?</span>
@@ -584,7 +586,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
         <span class="fragment fade-out">In this case, the first description can be fine</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Or do you want more mature people with a good life balance, implied in communities, ... ?</span>
+        <span class="fragment fade-out">Or do you want more mature people with a good life balance, involved in communities, ... ?</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">In that case, reflect it in your job description and show what you can offer</span>
 	</span>	
@@ -604,7 +606,7 @@ Change your process ?
         <span class="fragment fade-out">When you receive resumes, it can be a good practice to anonymise them</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Even though we do not want do, we have implicit bias (about gender, social background, age, ...) that can blur our opinions</span>
+        <span class="fragment fade-out">Even though we do not want do, we have implicit bias (about gender, social background, age, ...) that can blur our opinion</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those bias</span>
@@ -693,13 +695,13 @@ Change your process ?
         <span class="fragment fade-out">Another thing you should be aware of, is meeting times</span>
     </span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Some people have to take care of beloved ones / significant others and can't stay late,</span>
+        <span class="fragment fade-out">Some people have to take care of loved ones / significant others and can't stay late,</span>
     </span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">some have buses to catch, some can't work efficiently in the morning...</span>
     </span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">You are working with human being, try to adapt !</span>
+        <span class="fragment fade-out">You are working with human beings, try to adapt !</span>
     </span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Maybe just ask what the best time would be and timebox the meetings</span>
@@ -720,7 +722,7 @@ Change your process ?
         <span class="fragment fade-out">Would it be the same if women didn't shave their legs ? I have never been given a real answer to this question...</span>
     </span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Nonetheless, equality is in both directions.</span>
+        <span class="fragment fade-out">Nonetheless, equality goes both ways.</span>
     </span>
 </footer>
 ++++
@@ -840,7 +842,7 @@ Change your process ?
  
 --
 
-== Do not fear to talk about it
+== Do not fear talking about it
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
