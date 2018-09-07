@@ -39,7 +39,7 @@
         <span class="fragment fade-out">Everyone stand up !</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Every white man between 25 and 35 years old can sit down...</span>
+        <span class="fragment fade-out">Every white man between in his 30s can sit down...</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">...</span>
@@ -216,7 +216,10 @@ image:codelutin.png[CodeLutin,200]
         <span class="fragment fade-out">Did the client only choose me because of my legs or was it because I had the required technical competences ? </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Was it only to "feminize" the work place ? People told me it was an asset to be a woman, but I saw this as a burden.</span>
+        <span class="fragment fade-out">Was it only to "feminize" the work place ? </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">People told me it was an asset to be a woman, but I saw this as a burden.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.</span>
@@ -290,9 +293,6 @@ developers = children ?
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Because I was not "technical enough", I decided to change path and dig deeper into agile methodology.</span>
-	</span>
-    <span class="fragment fade-in">
         <span class="fragment fade-out">By the way, I had my first child.</span> 
 	</span>
     <span class="fragment fade-in">
@@ -303,6 +303,9 @@ developers = children ?
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Just because I could barely manage my 3 months old daughter, it meant I could manage a bunch of developers and clients ? </span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Because I was not "technical enough", I decided to change path and dig deeper into agile methodology.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I pursued my personnal investment into agile methods hoping to find a company where I could really help people</span>
@@ -866,8 +869,16 @@ Change your process ?
 == Diversity attracts diversity
 The problem becomes exponentially easier to solve once you’ve begun to solve it ^^
 
-== We work with others + we care about our job = we should care about others 
-icon:heart[2x]
+== !
+++++
+<h2>We work with others <br/>
++<br/>
+we care about our job <br/>
+= <br/>
+we should care about others 
+</h2>
+++++
+
 
 == Thanks !
 
@@ -875,7 +886,7 @@ icon:heart[2x]
 --
 And special thanks to all of those who helped and supported me with this presentation !
 
-- Jean, Gervaise
+- Jean, Gervaise, Annabelle
 - Jayanti (www.speaksafe.fr)
 - Code Lutin
 - Duchess France
