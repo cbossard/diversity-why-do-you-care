@@ -90,7 +90,7 @@ image:little_poney.jpg[]
         <span class="fragment fade-out">Every one has something special and unique to share in this world of friendship.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">But is it always like that ?  </span>
+        <span class="fragment fade-out">But is it always like that ?  Are we working in a "Care Bears" world ?</span>
 	</span>
 </footer>
 ++++
@@ -293,10 +293,10 @@ developers = children ?
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">By the way, I had my first child.</span> 
+        <span class="fragment fade-out">When I had my first child, after my maternity leave,</span> 
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">After my maternity leave, my manager told me that everything would be different, now that I was a mom.</span>
+        <span class="fragment fade-out"> my manager told me that everything would be different, now that I was a mom.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I could start managing people and projects. What ?!?!</span>
@@ -518,6 +518,9 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Otherwise, all the tickets would we taken by boys.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">(Girls need more time to decide if they want to attend)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Our next step will be to try to communicate more outside our IT world</span>
