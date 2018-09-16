@@ -27,7 +27,7 @@
         <span class="fragment fade-out">Now, every man can sit down.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Every white person ?</span>
+        <span class="fragment fade-out">Every caucasian person ?</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Let's count how many people are still standing...</span>
@@ -39,7 +39,7 @@
         <span class="fragment fade-out">Everyone stand up !</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Every white man between in his 30s can sit down...</span>
+        <span class="fragment fade-out">Every caucasian man between in his 30s can sit down...</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">...</span>
@@ -121,10 +121,12 @@ image:codelutin.png[CodeLutin,200]
 ++++
 
 == Break the stereotypes
+
+++++
 Enfant, j'ai grandi dans une famille d'enseignants assez technophiles. Par exemple, mon père était enseignant dans une école primaire et initiait ses élèves à l'informatique
 (ce qui n'était pas super fréquent dans les années 80). Tous les soirs, après avoir fait nos devoirs, nous nous occupions donc dans sa classe en attendant qu'il soit prêt en jouant avec les ordinateurs.
 J'ai donc eu la chance d'y avoir accès très tôt dans ma vie, et sans barrière (nous étions libres d'y faire ce que nous souhaitions, sachant que les possibilités étaient de toute façon assez limitées !)
-
+++++
 
 == Break the stereotypes
 
