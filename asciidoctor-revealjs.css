@@ -1,10 +1,19 @@
 .reveal {
-    background-image: url("blackboard.jpeg");
-    background-size: cover;
+   /* background-image: url("blackboard.jpeg");
+    background-size: cover;*/
+ background: #f7f2d3;
+  /*background: -moz-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);*/
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, white), color-stop(100%, #f7f2d3));
+  background: -webkit-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+  background: -o-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+  background: -ms-radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+  background: radial-gradient(center, circle cover, white 0%, #f7f2d3 100%);
+background-color: #f7f3de;
+color: #000;
 }
 
 .reveal h1 {
-    color: #0af;
+    color: #9bd22e   ;
     font-weight: 100;
    /* text-shadow: 0 0 50px #0af, 0 0 3px #fff;*/
     font-family: comic zine ot;
@@ -12,14 +21,22 @@
 }
 
 .reveal h2 {
-    color: #af0;
-    /*text-shadow: 0 0 15px #af0, 0 0 2px #fff;*/
+    color: #0af;
+    /*text-shadow: 0 0 15px #af0, 0 0 2px #fff;*/  
     font-weight: 100;
     font-family: comic zine ot;
     font-size: 2em;
 }
 
-
+.reveal h6 {
+    color: #0006;
+    font-family: KG Empire of dirt;
+    text-transform: none;
+    font-weight: normal;
+    font-size:medium;
+    padding-top: 30px;
+}
+ 
 .reveal section img{
     background: none;
     border:none;
@@ -38,10 +55,10 @@
     left: 0px;
     text-align: center;
     width: 100%;
-    background-color: #45494b;
+    background-color: #F6F3E0;
     font-family: Tiresias;
     font-size: 0.9em;
-    color: #fffbd2;
+    color: #45494b;
 }
 
 .title-footer {

@@ -100,7 +100,7 @@ image:little_poney.jpg[]
 == Who am I and why am I talking to you today?
 Cécilia Bossard, developer
 
-image:codelutin.png[CodeLutin,200]
+image:cl-logo-2017.png[CodeLutin,200]
 
 
 ++++
@@ -338,7 +338,7 @@ I also have the impression that I was representing the whole womankind. </span>
 ++++
   <footer class="title-footer">
       <span class="fragment fade-in">
-          <span class="fragment fade-out">If you have the opportinuty to teach things to young people</span>
+          <span class="fragment fade-out">If you have the opportunity to teach things to young people</span>
   	</span>
       <span class="fragment fade-in">
           <span class="fragment fade-out">try to provide mentorship and role models.</span>
@@ -397,7 +397,7 @@ I also have the impression that I was representing the whole womankind. </span>
 		<span class="fragment fade-out">And honestly, it's not only my lack of time that has made me stop playing online video games...</span>
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">I'm just fed up with having to justify myself all the time for something I do (I did) because I enjoyed it.</span>
+		<span class="fragment fade-out">I'm just fed up with having to justify myself all the time for something I <s>do</s> did because I enjoyed it.</span>
 	</span>
 	<span class="fragment fade-in">
 		<span class="fragment fade-out">On the other side, maybe have you experienced sponsoring at school ?</span>
@@ -737,6 +737,12 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
      <span class="fragment fade-in">
         <span class="fragment fade-out">Don't be afraid to say "I'm sorry" if you hurt someone.</span>
 	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">When you step on somebody's foot, you usually apologise.</span>
+	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">Do the same when you hurt someone with words.</span>
+	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Speaking of hurting someone, try to mind your swear words</span>
 	</span>
@@ -748,6 +754,12 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">or talk about a really "sexy" framework</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">or that a section of code is really "hairy"</span>
+	</span>
+   <span class="fragment fade-in">
+        <span class="fragment fade-out">You can't know everybody's background and history.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Some expression can be offensive towards people even when it is not meant to be.</span>
@@ -790,22 +802,22 @@ developers = children?
         <span class="fragment fade-out">Just because I could barely manage my 3 months old daughter, it meant I could manage a bunch of developers and clients?</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">What I really saw was that I was not treated like my male colleagues concerning parenthood.
+        <span class="fragment fade-out">What I really saw was that I was not treated like my male colleagues concerning parenthood.</span>
     </span>	
     <span class="fragment fade-in">
-        <span class="fragment fade-out">When my daughters are sick, I am the one who is called for by school,
+        <span class="fragment fade-out">When my daughters are sick, I am the one who is called for by school,</span>
     </span>	
     <span class="fragment fade-in">
-        <span class="fragment fade-out"> even though their father is working at home.
+        <span class="fragment fade-out"> even though their father is working at home.</span>
     </span>	   
     <span class="fragment fade-in">
-        <span class="fragment fade-out">I'm always reminded that women are supposed to take care of their children
+        <span class="fragment fade-out">I'm always reminded that women are supposed to take care of their children</span>
     </span>	  
     <span class="fragment fade-in">
-        <span class="fragment fade-out">and are supposed to stay at home or work part-time...
+        <span class="fragment fade-out">and are supposed to stay at home or work part-time...</span>
     </span>  
     <span class="fragment fade-in">
-        <span class="fragment fade-out">I thought we were in 2018, not in 1818?
+        <span class="fragment fade-out">I thought we were in 2018, not in 1818?</span>
     </span>      
   </footer>
 ++++
@@ -830,6 +842,9 @@ developers = children?
 	</span>
      <span class="fragment fade-in">
         <span class="fragment fade-out">It's the day to day concerns that will drive peolpe away, no matter how much energy a company puts into big-picture efforts.</span>
+	</span>
+     <span class="fragment fade-in">
+        <span class="fragment fade-out">It is not because you are writing "diversity" on your flyers that your teams believe in it.</span>
 	</span>
 
 </footer>
@@ -878,7 +893,7 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
         <span class="fragment fade-out">And thanks to them, I started to dare speak at conferences! </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">But I still do not dare speak about technical subjects, only about soft skills...(But I'm working on it!)</span>
+        <span class="fragment fade-out">But, as you can see it today, I still do not dare speak about technical subjects, only about soft skills...(But I'm working on it!)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I'm also glad I had the opportunities to meet other women in tech who faced the same issues I did</span>
@@ -930,6 +945,47 @@ ___________________________________________
 ++++
 
 
+== Why is diversity even important ?
+
+Also for economical reasons
+
+++++
+<h6>
+Study by Goodwill Management for "IMS-Entreprendre pour la Cité" according to four big companies (AXA, L’Oréal, Orange et Vinci) - 10/2011<br/>
+http://www.reseau-lepc.fr/publications/la-diversite-des-ressources-humaines-levier-de-performance-economique
+</h6>
+<br/>
+<br/>
+<footer class="title-footer">
+    
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Diversity could increase rentability by 5 to 15 %.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">By attracting profiles from different origins, the quality of the workforce is increased.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">The wider the search panel is, the better the chances to find good profiles are.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Having a more diverse team also provides a better proximity with your clients.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">You will be more able to identify and answer their needs and expectations.</span>
+	</span>
+
+</footer>
+++++
+
+
+
+
+== The goal is not to have a perfectly diverse team but a team with enough diversity
+
+== Diversity attracts diversity
+The problem becomes exponentially easier to solve once you’ve begun to solve it ^^
+
+
 == Do not fear to talk about it
 
 #meToo
@@ -937,7 +993,7 @@ ___________________________________________
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">I you feel discriminated or witness such behaviour</span>
+        <span class="fragment fade-out">If you feel discriminated or witness such behaviour</span>
 	</span>
      <span class="fragment fade-in">
         <span class="fragment fade-out">do not hesitate to talk about it.</span>
@@ -975,18 +1031,13 @@ ___________________________________________
 
 --
 
-== The goal is not to have a perfectly diverse team but a team with enough diversity
-
-== Diversity attracts diversity
-The problem becomes exponentially easier to solve once you’ve begun to solve it ^^
-
 == !
 ++++
 <h2>We work with others <br/>
 +<br/>
 we care about our job <br/>
 = <br/>
-we should care about others
+we should care about each others
 </h2>
 ++++
 
