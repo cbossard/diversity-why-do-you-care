@@ -70,7 +70,7 @@ image:definition.png[]
 		<span class="fragment fade-out">Let's first take a look at the definition from the Cambridge dictionary.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">So now that we all know what we are talking about, let's dig deeper into the subject.</span>
+        <span class="fragment fade-out">So now that we all know what we are talking about (or not), let's dig deeper into the subject.</span>
 	</span>
 </footer>
 ++++
@@ -129,7 +129,7 @@ image:cl-logo-2017.png[CodeLutin,200]
 <footer class="title-footer">
     <span class="fragment fade-in">
 		<span class="fragment fade-out">
-As a child, I grew up in a tech-friendly family. </span>
+            As a child, I grew up in a tech-friendly family. </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">My father was a teacher in an elementary school. </span>
@@ -139,14 +139,14 @@ As a child, I grew up in a tech-friendly family. </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">
-Every day, after school, once our homeworks done, we could play with the computers in his classroom. </span>
+            Every day, after school, once our homeworks done, we could play with the computers in his classroom. </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">
-I had the chance to have access to computer early in my life, and without any barrier </span>
+            I had the chance to have access to computer early in my life, and without any barrier </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">(we were free to do what we wanted. The possibilities were quite limited anyway ^^)</span>
+        <span class="fragment fade-out">We were free to do what we wanted. (The possibilities were quite limited anyway ^^)</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">We were never told that computers was not a game for little girls.</span>
