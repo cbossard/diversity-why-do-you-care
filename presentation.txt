@@ -185,15 +185,15 @@ I saw all the stereotypes against technology and girls.</span>
     </span>
    <span class="fragment fade-in">
 		<span class="fragment fade-out">
-"Only boy can understand science"</span>
+"Only boys can understand science"</span>
     </span>
    <span class="fragment fade-in">
 		<span class="fragment fade-out">
-I am very glad not to have been confronted to such situation. </span>
+I am very glad not to have been confronted with such situation. </span>
     </span>
    <span class="fragment fade-in">
 		<span class="fragment fade-out">
-I wonder if I would have had the same interest in computers ? I'm not so sure...</span>
+I wonder if I would have had the same interest in computers? I'm not so sure...</span>
     </span>
 </span>
 
@@ -208,19 +208,19 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
 ++++
 <footer class="title-footer">
 <span class="fragment fade-in">
-    <span class="fragment fade-out">A good way to break those stereotypes is to smash them as soon as possible.</span>
+    <span class="fragment fade-out">A good way to smash those stereotypes is to do it as soon as possible.</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">Initiatives like Devoxx4Kids or Coding Goûter are great for that.</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">For instance, in Nantes, We have been organising parent/children coding session for 4 years </span>
+    <span class="fragment fade-out">For instance, in Nantes, We have been organising parent/children coding sessions for 4 years </span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great !</span>
+    <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great!</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">A girl only came along her little brother who was really interested.</span>
+    <span class="fragment fade-out">A girl only came alongside her little brother who was really interested.</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">During the first session, she only played with her phone</span>
@@ -229,7 +229,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
     <span class="fragment fade-out">but started to look at what the others were doing</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">and finally, she has been coming back month after month, while her little brother never showed up again :-)</span>
+    <span class="fragment fade-out">and finally, she has been coming back month after month, while her little brother never showed up again</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">And I must confess that sometimes, I keep organising those sessions just because of her.</span>
@@ -241,7 +241,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
     <span class="fragment fade-out">But sadly, we often have to force parity so that girls may have time to apply</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">For example, in Nantes, when we are planning a devoxx4kids event, we are providing girls and boys tickets.</span>
+    <span class="fragment fade-out">For example, in Nantes, when we are planning a Devoxx4kids event, we are providing girls and boys tickets.</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">The content of the event is exactly the same for boys and for girls, but we are saving half of the tickets for girls.</span>
@@ -250,7 +250,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
     <span class="fragment fade-out">Otherwise, all the tickets would we taken by boys.</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Our next step will be to try to communicate more outside our IT world</span>
+    <span class="fragment fade-out">Our next step will be to try and communicate more outside our IT world</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">and give access to this event to children who are not digital natives.</span>
@@ -283,7 +283,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
 		<span class="fragment fade-out">I don't remember my classmates beeing sexist or so, </span>
 	</span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">but I clearly remember some of my teachers not talking to girls or making it clear we didn't belong here.</span>
+		<span class="fragment fade-out">but I clearly remember some of my teachers not talking to girls or making it clear we didn't belong.</span>
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">Nonetheless, maybe out of sheer stubbornness, I decided to stay.</span>
@@ -307,30 +307,30 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
   <span class="fragment fade-out">Everything was fine, </span>
 </span>
   <span class="fragment fade-in">
-  <span class="fragment fade-out">but there were always a little voice in my head saying "You are just here to enhance the statistics, not because you earned it". </span>
+  <span class="fragment fade-out">but there was always a little voice in my head saying "You are just here to enhance the statistics, not because you earned it". </span>
 </span>
   <span class="fragment fade-in">
-  <span class="fragment fade-out">Welcome, Impostor Syndrome !</span>
+  <span class="fragment fade-out">Welcome, Impostor Syndrome!</span>
 </span>
 <span class="fragment fade-in">
   <span class="fragment fade-out">
-I also have the impression that I was representing the whole womankind. </span>
+I also had (and still have) the impression that I was representing the whole womankind. </span>
 </span>
 <span class="fragment fade-in">
   <span class="fragment fade-out">If I was not top of the class, people would be able to say  </span>
   </span>
   <span class="fragment fade-in">
     <span class="fragment fade-out">
-  that women are not good computer scientists and would have good reason to exclude us.</span>
+  that women are not as good computer scientists and would have reason to exclude us.</span>
   </span>
   <span class="fragment fade-in">
-  	<span class="fragment fade-out">This stress is added to the global stress upon students shoulders and can be hard to manage.</span>
+  	<span class="fragment fade-out">This stress is added to the global stress upon students shoulders and is a lot to handle.</span>
   </span>
 
 </footer>
 ++++
 
-== What can we do to enhance the proportion of women in STEM ?
+== What can we do to make STEM interesting again for women?
 - Provide mentorship and role models
 - Give a meaning to the training
 - Connect STEM with other disciplines like humanities or art
@@ -359,7 +359,7 @@ I also have the impression that I was representing the whole womankind. </span>
           <span class="fragment fade-out">you could try "Increase organic farming performance through statistics and algorithm "</span>
   	</span>
       <span class="fragment fade-in">
-          <span class="fragment fade-out">The content of the training would be the same, but you will not have only math geek students ;-)</span>
+          <span class="fragment fade-out">The content of the training would be the same, but you will not have only geeky math students ;-)</span>
   	</span>
       <span class="fragment fade-in">
           <span class="fragment fade-out">Be creative and find connections with other disciplines!</span>
@@ -400,26 +400,26 @@ I also have the impression that I was representing the whole womankind. </span>
 		<span class="fragment fade-out">I'm just fed up with having to justify myself all the time for something I <s>do</s> did because I enjoyed it.</span>
 	</span>
 	<span class="fragment fade-in">
-		<span class="fragment fade-out">On the other side, maybe have you experienced sponsoring at school ?</span>
+		<span class="fragment fade-out">On the other side, you might have experienced sponsoring at school?</span>
 	</span>
 	<span class="fragment fade-in">
-		<span class="fragment fade-out">In my case, either at University or Engineer school, we were assigned to sponsors.</span>
-	</span>
-	<span class="fragment fade-in">
-		<span class="fragment fade-out">
-	It was the student union that took care of this matching.</span>
+		<span class="fragment fade-out">In my case, either at University or Engineering school, we were assigned to sponsors.</span>
 	</span>
 	<span class="fragment fade-in">
 		<span class="fragment fade-out">
-			And strangely, all girls were "attributed" to the members of the student union</span>
+	The student union took care of this matching.</span>
 	</span>
 	<span class="fragment fade-in">
 		<span class="fragment fade-out">
-			It is hard to think that this matching was made without afterthoughts...</span>
+			And strangely, all girls were "assigned" to the members of the student union</span>
 	</span>
 	<span class="fragment fade-in">
 		<span class="fragment fade-out">
-			And in this condition, how can you expect your sponsor to be caring and dare ask for help ?</span>
+			It is hard to think that this matching was made without questionnable intent...</span>
+	</span>
+	<span class="fragment fade-in">
+		<span class="fragment fade-out">
+			And in this condition, how can you expect your sponsor to be caring and dare ask him for help?</span>
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">Despite these litte issues, everything was going well :-) </span>
@@ -427,7 +427,7 @@ I also have the impression that I was representing the whole womankind. </span>
   </footer>
 ++++
 
-== Hello again, Impostor Syndrome !
+== Hello again, Impostor Syndrome!
 
 ++++
 <footer class="title-footer">
@@ -446,13 +446,13 @@ I also have the impression that I was representing the whole womankind. </span>
         <span class="fragment fade-out">So I programmed, learned new frameworks, new languages, had fun learning new things... (and enjoyed it)</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">But every time I was presented to clients, I was told to wear a dress or a skirt.</span>
+        <span class="fragment fade-out">But every time I was introduced to clients, I was told to wear a dress or a skirt.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Did the client only choose me because of my legs or was it because I had the required technical competences ? </span>
+        <span class="fragment fade-out">Did the client only choose me because of my legs or was it because I had the required technical skills? </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Was it only to "feminize" the work place ? </span>
+        <span class="fragment fade-out">Was it only to "feminize" the work place? </span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">People told me it was an asset to be a woman, but I saw this as a burden.</span>
@@ -461,12 +461,12 @@ I also have the impression that I was representing the whole womankind. </span>
         <span class="fragment fade-out">I was just seen as THE woman of the team, like a green plant or a trophee you set in the middle of the office for everyone to see.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Hello again, dear impostor syndrome !</span>
+        <span class="fragment fade-out">Hello again, dear impostor syndrome!</span>
 	</span>
   </footer>
 ++++
 
-== What can we do ?
+== What can we do?
 - Take care of your job description!
 * Free pizza / bier / table tennis, ...
 * vs. Remote work, time to take care of your beloved ones, equity in treatment, respect, ...
@@ -477,16 +477,16 @@ I also have the impression that I was representing the whole womankind. </span>
         <span class="fragment fade-out">Be really careful about your job description</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">What kind of person do you want to attract ?</span>
+        <span class="fragment fade-out">What kind of person do you want to attract?</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Is it young people who want to have fun and can stay late ?</span>
+        <span class="fragment fade-out">Is it young people who want to have fun and can stay late?</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">In this case, the first description can be fine</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Or do you want more mature people with a good life balance, involved in communities, ... ?</span>
+        <span class="fragment fade-out">Or do you want more mature people with a good life balance, involved in communities, ...?</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">In that case, reflect it in your job description and show what you can offer</span>
 	</span>
@@ -494,8 +494,8 @@ I also have the impression that I was representing the whole womankind. </span>
 ++++
 
 
-== What can we do ?
-Change your recruitment process ?
+== What can we do?
+Change your recruitment process?
 
 - Anonymous resume
 - Technical recruitment tests
@@ -510,10 +510,10 @@ Change your recruitment process ?
         <span class="fragment fade-out">Even though we do not want to, we have implicit biases (about gender, social background, age, ...) that can blur our opinion</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those bias</span>
+        <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those biases</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">And candidates know that if they are chosen, it is thanks to their competences.</span>
+        <span class="fragment fade-out">And candidates know that if they are chosen, it is thanks to their skills.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">If you are searching for some technical skills, you can also provide technical tests</span>
@@ -527,7 +527,7 @@ Change your recruitment process ?
 </footer>
 ++++
 
-== Bad luck ?
+== Bad luck?
 Loss of meaning
 
 ++++
@@ -598,10 +598,10 @@ Learn to know the person you are working with
     <span class="fragment fade-out">There are many situations at work that can deteriorate team work</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">For instance, why can't persons who are singles take days off during school holidays ? </span>
+    <span class="fragment fade-out">For instance, why can't people who are single take days off during school holidays? </span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Are they not allowed to spend time with their families ?</span>
+    <span class="fragment fade-out">Are they not allowed to spend time with their families?</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">
@@ -611,7 +611,7 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
     <span class="fragment fade-out">Please considerate that in your schedules.</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">If people are muslims in your team </span>
+    <span class="fragment fade-out">If there are muslims in your team </span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">try to avoid a big launch of your project during Ramadan</span>
@@ -623,7 +623,7 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
     <span class="fragment fade-out">Whereas nobody is deploying a new version of a software for Christmas...</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Be also careful on the tasks distribution</span>
+    <span class="fragment fade-out">Be also careful on the distribution of tasks </span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">I have too often seen things like "Front-end for girls" / "Back-end for boys"</span>
@@ -662,10 +662,10 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
     <span class="fragment fade-out">I've noticed that every summer, the problem reappears</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Why can't we see men's legs at work while women can wear short skirts ?</span>
+    <span class="fragment fade-out">Why can't we see men's legs at work while women can wear short skirts?</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Would it be the same if women didn't shave their legs ? I have never been given a real answer to this question...</span>
+    <span class="fragment fade-out">Would it be the same if women didn't shave their legs? I have never been given a real answer to this question...</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">Nonetheless, equality goes both ways.</span>
@@ -689,16 +689,16 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
     <span class="fragment fade-out">Do not accept aggressive behavior towards minorities</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Do not let even little misbehavior become normal</span>
+    <span class="fragment fade-out">Do not let even little misbehaviours become normal</span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">Mind your words</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">Words are easilly said and can't be erased</span>
+    <span class="fragment fade-out">Words are easily said and can't be erased</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">We can't read over what we are saying (but we can thing about it before !)</span>
+    <span class="fragment fade-out">We can't read over what we are saying (but we can think about it before!)</span>
 </span>
 </footer>
 ++++
@@ -762,7 +762,7 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
         <span class="fragment fade-out">You can't know everybody's background and history.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Some expression can be offensive towards people even when it is not meant to be.</span>
+        <span class="fragment fade-out">Some expressions can be offensive towards people even when it is not meant to be.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">And a little thing that happens really often, is using the word "guys" to mean "people".</span>
@@ -774,7 +774,7 @@ Speaking of holiday, realize that christian holidays is not the norm for everyon
         <span class="fragment fade-out">While speaking is important, listening is even more important!</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Try to listen to people and let them speak, particuly in meetings.</span>
+        <span class="fragment fade-out">Try to listen to people and let them speak, particulary in meetings.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Make sure every one had the same opportunity to express their opinion, whatever their gender, age, experience, ...</span>
@@ -790,7 +790,7 @@ developers = children?
 ++++
 <footer class="title-footer">
     <span class="fragment fade-in">
-        <span class="fragment fade-out">When I had my first child, after my maternity leave,</span>
+        <span class="fragment fade-out"> After my first maternity leave,</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out"> my manager told me that everything would be different, now that I was a mom.</span>
@@ -835,7 +835,7 @@ developers = children?
         <span class="fragment fade-out">So just give them time to take care of their children, to be at home if they want to.</span>
 	</span>
      <span class="fragment fade-in">
-        <span class="fragment fade-out">Allowing remote work can also be a great solution !</span>
+        <span class="fragment fade-out">Allowing remote work can also be a great solution!</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">And women are not the only ones who want to work part-time.</span>
@@ -869,13 +869,13 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
         <span class="fragment fade-out">Every time I was at a meetup or at a conference, people started to ask me </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">if I understood what was said, if I was here to recruit people or to meet some clients.</span>
+        <span class="fragment fade-out">if I understood what was said, if I was there to recruit people or to meet some clients.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">I can say this really, really bothered me...</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">So, maybe the only way to show people you are competent is to give technical talks at conferences ?</span>
+        <span class="fragment fade-out">So, maybe the only way to show people you are competent is to give technical talks at conferences?</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">But what should I talk about? I'm not "technical enough"!</span>
@@ -919,7 +919,7 @@ image:duchessfr.png[Duchess,200]    image:wit.png[WIT,200]
 ++++
 
 
-== Why is diversity even important ?
+== Why is diversity even important?
 
 [quote]
 ___________________________________________
@@ -936,7 +936,7 @@ ___________________________________________
         <span class="fragment fade-out">People from different backgrounds do, on average, tend to approach work and problem solving differently. </span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">And solving problem is exactly what we do every day!</span>
+        <span class="fragment fade-out">And solving problems is exactly what we do every day!</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">These differences can bring new perspectives needed to promote innovation.</span>
@@ -945,7 +945,7 @@ ___________________________________________
 ++++
 
 
-== Why is diversity even important ?
+== Why is diversity even important?
 
 Also for economical reasons
 
@@ -959,19 +959,19 @@ http://www.reseau-lepc.fr/publications/la-diversite-des-ressources-humaines-levi
 <footer class="title-footer">
     
     <span class="fragment fade-in">
-        <span class="fragment fade-out">Diversity could increase rentability by 5 to 15 %.</span>
+        <span class="fragment fade-out">Diversity could increase rentability by 5 to 15%.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">By attracting profiles from different origins, the quality of the workforce is increased.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">The wider the search panel is, the better the chances to find good profiles are.</span>
+        <span class="fragment fade-out">The wider the search panel is, the better the chances to find good profiles.</span>
 	</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">Having a more diverse team also provides a better proximity with your clients.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">You will be more able to identify and answer their needs and expectations.</span>
+        <span class="fragment fade-out">It will be easier to identify and answer their needs and expectations.</span>
 	</span>
 
 </footer>
@@ -983,7 +983,7 @@ http://www.reseau-lepc.fr/publications/la-diversite-des-ressources-humaines-levi
 == The goal is not to have a perfectly diverse team but a team with enough diversity
 
 == Diversity attracts diversity
-The problem becomes exponentially easier to solve once you’ve begun to solve it ^^
+The problem becomes exponentially easier to solve once you’ve begun solving it ^^
 
 
 == Do not fear to talk about it
@@ -1042,7 +1042,7 @@ we should care about each others
 ++++
 
 
-== Thanks !
+== Thanks!
 
 [NOTE]
 --
