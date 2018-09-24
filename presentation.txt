@@ -268,7 +268,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
 		<span class="fragment fade-out">Despite my tech-friendly environment, I chose to study computer science a bit by accident. </span>
 	  </span>
     <span class="fragment fade-in">
-		<span class="fragment fade-out">When I was in high school, I discovered HTML and Javascript (it was in 2000, when everyone was discovering how to create web pages).</span>
+		<span class="fragment fade-out">When I was in high school, I discovered HTML and JavaScript (it was in 2000, when everyone was discovering how to create web pages).</span>
 	</span>
     <span class="fragment fade-in">
 		<span class="fragment fade-out">I liked the way we could build new things and decided to pursue my studies in computer science.</span>
@@ -466,6 +466,43 @@ I also had (and still have) the impression that I was representing the whole wom
   </footer>
 ++++
 
+
+== What can we do?
+Change your recruitment process?
+
+- Anonymous resume
+- Technical recruitment tests
+- ...
+
+++++
+<footer class="title-footer">
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">To reduce the impact of impostor syndrome, you can change your recruitment process.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">For example, when you receive resumes, anonymise them</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Even though we do not want to, we have implicit biases (about gender, social background, age, ...) that can blur our opinion</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those biases</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">And candidates know that if they are chosen, it is thanks to their skills.</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">If you are searching for some technical skills, you can also provide technical tests</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">With those tests, you will not be influenced by which school people attended,</span>
+	</span>
+    <span class="fragment fade-in">
+        <span class="fragment fade-out">which company they worked for, which projects they worked in, ... to have an idea about their technical level.</span>
+	</span>
+</footer>
+++++
+
 == What can we do?
 - Take care of your job description!
 * Free pizza / bier / table tennis, ...
@@ -489,40 +526,6 @@ I also had (and still have) the impression that I was representing the whole wom
         <span class="fragment fade-out">Or do you want more mature people with a good life balance, involved in communities, ...?</span>
     <span class="fragment fade-in">
         <span class="fragment fade-out">In that case, reflect it in your job description and show what you can offer</span>
-	</span>
-</footer>
-++++
-
-
-== What can we do?
-Change your recruitment process?
-
-- Anonymous resume
-- Technical recruitment tests
-- ...
-
-++++
-<footer class="title-footer">
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">When you receive resumes, anonymise them</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">Even though we do not want to, we have implicit biases (about gender, social background, age, ...) that can blur our opinion</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">Having no name, photograph, age, address, on a resume can help reduce those biases</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">And candidates know that if they are chosen, it is thanks to their skills.</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">If you are searching for some technical skills, you can also provide technical tests</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">With those tests, you will not be influenced by which school people attended,</span>
-	</span>
-    <span class="fragment fade-in">
-        <span class="fragment fade-out">which company they worked for, which projects they worked in, ... to have an idea about their technical level.</span>
 	</span>
 </footer>
 ++++
@@ -1008,7 +1011,7 @@ The problem becomes exponentially easier to solve once you’ve begun solving it
 ++++
 
 == And if anything goes wrong...
-- "Defenseur des droits"
+- "Défenseur des droits"
 - Laws again discrimination
 
 ++++
@@ -1017,7 +1020,7 @@ The problem becomes exponentially easier to solve once you’ve begun solving it
         <span class="fragment fade-out">I hope you won't have to use it, but if anything goes wrong, we have laws against discrimination.</span>
 	</span>
     <span class="fragment fade-in">
-        <span class="fragment fade-out">In France, we also have a legislation called the "Defenseur des droits". </span>
+        <span class="fragment fade-out">In France, we also have a legislation called the "Défenseur des droits". </span>
 	</span>
 
 
