@@ -214,7 +214,7 @@ image:blackgirlcode.jpeg[Black Girl Code,200]  image:railsgirls.jpeg[Rails Girls
     <span class="fragment fade-out">Initiatives like Devoxx4Kids or Coding Goûter are great for that.</span>
 </span>
 <span class="fragment fade-in">
-    <span class="fragment fade-out">For instance, in Nantes, We have been organising parent/children coding sessions for 4 years </span>
+    <span class="fragment fade-out">For instance, in Nantes, we have been organising parent/children coding sessions for 4 years </span>
 </span>
 <span class="fragment fade-in">
     <span class="fragment fade-out">We have seen little girls become teenagers and still enjoy programming and that's really great!</span>
